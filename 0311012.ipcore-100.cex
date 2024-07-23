@@ -1,0 +1,300 @@
+*CHI:	Mommy (.) we finished .
+%mor:	noun|Mommy pron|we-Prs-Nom-P1 verb|finish-Fin-Ind-Past-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+*CHI:	let's do dis [: this] another day (.) alright ?
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|do-Inf-S pron|this-Dem-S1 det|another-Def noun|day intj|alright ?
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|DET 6|3|OBL-TMOD 7|1|DISCOURSE 8|1|PUNCT
+*CHI:	what is dis [: this] (.) huh ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem intj|huh ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	let's have something else .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|have-Inf-S pron|something-Ind-S1 adj|else-Pos-S1 .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|AMOD 6|1|PUNCT
+*CHI:	how (a)bout cutting dese [: these] out ?
+%mor:	adv|how sconj|about verb|cut-Ger-S pron|this-Dem-P1 adp|out ?
+%gra:	1|5|ROOT 2|3|MARK 3|1|ACL 4|3|OBJ 5|3|COMPOUND-PRT 6|1|PUNCT
+*CHI:	Mommy (.) how (a)bout punching dese [: these] out (.) will you ?
+%mor:	noun|Mommy adv|how sconj|about verb|punch-Ger-S pron|this-Dem-P1 adp|out aux|will-Fin-S pron|you-Prs-Acc-S2 ?
+%gra:	1|8|ROOT 2|1|ADVMOD 3|4|MARK 4|2|ACL 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVCL 8|7|OBJ 9|1|PUNCT
+*CHI:	punch dem [: them] out .
+%mor:	verb|punch-Fin-Imp-S pron|they-Prs-Acc-P3 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	I can't do it .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I can't do that .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|that-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	do you paste dem [: them] on dere [: there] ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|paste-Inf-S pron|they-Prs-Acc-P3 adp|on adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	we hafta put dem [: them] on the truck .
+%mor:	pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|put-Fin-Ind-Pres-P1 pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|truck .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	you punch dese [: these] out (.) please .
+%mor:	pron|you-Prs-Nom-S2 verb|punch-Fin-Ind-Pres-S2 pron|this-Dem-P1 adp|out intj|please .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|DISCOURSE 6|2|PUNCT
+*CHI:	Mommy (.) I doing de [: the] other one .
+%mor:	noun|Mommy pron|I-Prs-Nom-S1 verb|do-Ger-S det|the-Def-Art adj|other-Pos-S1 noun|one .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*CHI:	what are dose [: those] ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy (.) how do you hold dem [: them] up ?
+%mor:	noun|Mommy adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hold-Inf-S pron|they-Prs-Acc-P3 adp|up ?
+%gra:	1|5|VOCATIVE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+*CHI:	does he think there's a punch on the back ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|think-Inf-S pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|punch adp|on det|the-Def-Art noun|back ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|EXPL 5|3|CCOMP 6|7|DET 7|5|NSUBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+*CHI:	will you make these hold up ?
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S det|this-Def-Dem noun|hold adp|up ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*CHI:	the keyhole .
+%mor:	det|the-Def-Art noun|keyhole .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	does dis [: this] have a door in back of it ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|this-Dem-S1 verb|have-Inf-S det|a-Ind-Art noun|door adp|in noun|back adp|of pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*CHI:	does it have a door in back of it ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|have-Inf-S det|a-Ind-Art noun|door adp|in noun|back adp|of pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*CHI:	I think it does .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*CHI:	oh (.) is this the door in back of it ?
+%mor:	intj|oh aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 det|the-Def-Art noun|door adp|in noun|back adp|of pron|it-Prs-Acc-S3 ?
+%gra:	1|5|DISCOURSE 2|5|COP 3|5|NSUBJ 4|5|DET 5|9|ROOT 6|7|CASE 7|5|NMOD 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*CHI:	is it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	why do (.) punch dat [: that] out_of dere [: there] ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-P3 verb|punch-Inf-S det|that-Def-Dem noun|outof adv|there ?
+%gra:	1|3|ADVMOD 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	what is dat [: that] for (.) huh ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adp|for intj|huh ?
+%gra:	1|5|ROOT 2|1|COP 3|1|NSUBJ 4|5|CASE 5|1|NMOD 6|1|PUNCT
+*CHI:	no (.) I can't .
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	no (.) I don't know .
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	punch dat [: that] out .
+%mor:	verb|punch-Fin-Imp-S pron|that-Dem-S1 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	I know how do it now .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adv|how verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adv|now .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|2|CCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*CHI:	how does it make it stand up ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|make-Inf-S pron|it-Prs-Acc-S3 verb|stand-Inf-S adp|up ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+*CHI:	where's de [: the] door in back of it ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|door adp|in noun|back adp|of pron|it-Prs-Acc-S3 ?
+%gra:	1|8|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|6|CASE 6|4|NMOD 7|8|CASE 8|6|NMOD 9|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dotted line for what ?
+%mor:	verb|dot-Part-Past-S noun|line adp|for pron|what-Rel-S1 ?
+%gra:	1|2|AMOD 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	what is dotted line (.) huh ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|dot-Part-Past-S noun|line intj|huh ?
+%gra:	1|5|ROOT 2|1|COP 3|4|AMOD 4|1|NSUBJ 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why it says dotted ?
+%mor:	adv|why pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 adj|dot-Pos-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	do [//] (.) does (.) mean put dose [: those] in dere [: there] ?
+%mor:	aux|do-Fin-Ind-Pres-S3 verb|mean-Inf-S verb|put-Inf-S pron|that-Dem-P1 adp|in adv|there ?
+%gra:	1|2|AUX 2|6|ROOT 3|2|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|2|PUNCT
+*CHI:	do they mean put dose [: those] in dere [: there] ?
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|mean-Inf-S verb|put-Inf-S pron|that-Dem-P1 adp|in adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|CCOMP 5|4|OBJ 6|7|CASE 7|4|OBL 8|3|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dese [: these] are de [: the] tires to make the bus roll .
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|tire-Plur part|to verb|make-Inf-S det|the-Def-Art noun|bus noun|roll .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|9|ROOT 5|6|MARK 6|4|ACL 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|4|PUNCT
+*CHI:	here's my tire .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|tire .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	what's a matter (.) old tire .
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|matter adj|old-Pos-S1 noun|tire .
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|6|COMPOUND 5|6|AMOD 6|1|NSUBJ 7|1|PUNCT
+*CHI:	I guess it's a bus .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bus .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+*CHI:	people .
+%mor:	noun|person-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dey [: they] are little people .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|little-Pos-S1 noun|person-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	you may dat [: that] .
+%mor:	pron|you-Prs-Nom-S2 aux|may-Fin-S pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I wonder how you put dose [: those] wheels on dere [: there] .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 adv|how pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 det|that-Def-Dem noun|wheel-Plur adp|on adv|there .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|2|CCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|2|PUNCT
+*CHI:	can we paste dem [: them] on dere [: there] ?
+%mor:	aux|can-Fin-S pron|we-Prs-Nom-P1 verb|paste-Inf-S pron|they-Prs-Acc-P3 adp|on adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	Mommy (.) how (a)bout punching dese [: these] out .
+%mor:	noun|Mommy adv|how sconj|about verb|punch-Ger-S pron|this-Dem-P1 adv|out .
+%gra:	1|6|ROOT 2|1|ADVMOD 3|4|MARK 4|2|ACL 5|4|OBJ 6|4|ADVMOD 7|1|PUNCT
+*CHI:	what is it (.) a bus ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art noun|bus ?
+%gra:	1|5|ROOT 2|1|COP 3|1|NSUBJ 4|5|DET 5|1|NSUBJ 6|1|PUNCT
+*CHI:	well (.) punch those out .
+%mor:	intj|well verb|punch-Fin-Imp-S pron|that-Dem-P1 adv|out .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I wonder how we gonna get dose [: those] wheels on here .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 adv|how pron|we-Prs-Nom-P1 adv|gonna verb|get-Fin-Ind-Pres-P1 det|that-Def-Dem noun|wheel-Plur adp|on adv|here .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|6|ADVMOD 4|6|NSUBJ 5|6|ADVMOD 6|2|CCOMP 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|2|PUNCT
+*CHI:	Mommy (.) how we gonna get dose [: those] wheels on here ?
+%mor:	noun|Mommy adv|how pron|we-Prs-Nom-P1 adv|gonna verb|get-Fin-Ind-S1 det|that-Def-Dem noun|wheel-Plur adp|on adv|here ?
+%gra:	1|5|VOCATIVE 2|5|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*CHI:	can we put dem [: them] on like dat [: that] ?
+%mor:	aux|can-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S pron|they-Prs-Acc-P3 adp|on adp|like pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	okay (.) Mom .
+%mor:	adj|okay-Pos-S1 noun|mom .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	why you do that ?
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 pron|that-Dem-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	cross here for what ?
+%mor:	verb|cross-Fin-Imp-S adv|here adp|for pron|what-Rel-S1 ?
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	dis [: this] one goes .
+%mor:	det|this-Def-Dem noun|one verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy (.) what is dis [: this] ?
+%mor:	noun|Mommy pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	let's punch dese [: these] out first .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|punch-Inf-S pron|this-Dem-P1 adp|out adv|first .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|3|ADVMOD 7|1|PUNCT
+*CHI:	alright ?
+%mor:	intj|alright ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	let's punch dese [: these] out .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|punch-Inf-S pron|this-Dem-P1 adp|out .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|1|PUNCT
+*CHI:	it's don't have no flat tire .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|do-Fin-S~part|not verb|have-Inf-S det|no-Def adj|flat-Pos-S1 noun|tire .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*CHI:	I have a tire in back .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|tire adp|in noun|back .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*CHI:	I wonder how we gonna get dat [: that] tire off .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 adv|how pron|we-Prs-Nom-P1 adv|gonna verb|get-Inf-S det|that-Def-Dem noun|tire adv|off .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|ADVMOD 4|6|NSUBJ 5|6|ADVMOD 6|2|CCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|2|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I put dat [: that] on .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|that-Dem-S1 adv|on .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	my truck .
+%mor:	pron|my-Prs-Gen-S1 noun|truck .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	here's my truck .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|truck .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	Mommy (.) will you hold my money ?
+%mor:	noun|Mommy aux|will-Fin-S pron|you-Prs-Nom-S2 verb|hold-Inf-S pron|my-Prs-Gen-S1 noun|money ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	my wheel's [=? wheel] (a)bout to have a flat tire .
+%mor:	pron|my-Prs-Gen-S1 noun|wheel~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|4|PUNCT
+*CHI:	put dis [: this] .
+%mor:	verb|put-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Mommy (.) you said dis [: this] hasta hold it up .
+%mor:	noun|Mommy pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 pron|this-Dem-S1 x|hasta verb|hold-Inf-S pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|8|ROOT 4|6|NSUBJ 5|6|NSUBJ 6|3|CCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|3|PUNCT
+*CHI:	for what ?
+%mor:	adp|for pron|what-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy (.) put de [: the] money in back here .
+%mor:	noun|Mommy verb|put-Fin-Ind-Past-S3 det|the-Def-Art noun|money adp|in adv|back adv|here .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|7|ADVMOD 7|2|OBL 8|2|PUNCT
+*CHI:	dat's [: that's] okay .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|okay-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy (.) d(o) you have a flat tire ?
+%mor:	noun|Mommy aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*CHI:	do you have a flat tire (.) please ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|DISCOURSE 8|3|PUNCT
+*CHI:	dese [: these] are tires .
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|tire-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	you take dese [: these] tires when you have a flat tire .
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S2 det|this-Def-Dem noun|tire-Plur adv|when pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|flat-Pos-S1 noun|tire .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|7|ADVMOD 6|7|NSUBJ 7|2|ADVCL 8|10|DET 9|10|AMOD 10|7|OBJ 11|2|PUNCT
+*CHI:	do you have a flat tire ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*CHI:	I put dis [: this] flat tire up in it .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 det|this-Def-Dem adj|flat-Pos-S1 noun|tire adp|up adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|COMPOUND-PRT 7|8|CASE 8|2|OBL 9|2|PUNCT
+*CHI:	I almost had a flat tire .
+%mor:	pron|I-Prs-Nom-S1 adv|almost verb|have-Fin-Ind-Past-S1 det|a-Ind-Art adj|flat-Pos-S1 noun|tire .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*CHI:	Mommy (.) do you have a flat tire on your truck ?
+%mor:	noun|Mommy aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire adp|on pron|your-Prs-Gen-S2 noun|truck ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*CHI:	do you have a flat tire on your wagon ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|flat-Pos-S1 noun|tire adp|on pron|your-Prs-Gen-S2 noun|wagon ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|3|PUNCT
+*CHI:	I changed it now .
+%mor:	pron|I-Prs-Nom-S1 verb|change-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adv|now .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I taking dis [: this] tire away .
+%mor:	pron|I-Prs-Nom-S1 verb|take-Ger-S det|this-Def-Dem noun|tire adv|away .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	change it on my car .
+%mor:	verb|change-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on pron|my-Prs-Gen-S1 noun|car .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|NMOD-POSS 5|1|OBL 6|1|PUNCT
+*CHI:	is dis [: this] a jeep ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 det|a-Ind-Art noun|jeep ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	do you have another flat tire ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|another-Def adj|flat-Pos-S1 noun|tire ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*CHI:	do you have one on your wagon ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S num|one adp|on pron|your-Prs-Gen-S2 noun|wagon ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|3|PUNCT
+*CHI:	where's de [: the] other tire ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-Pos-S1 noun|tire ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why Paul crashed dat [: that] ?
+%mor:	adv|why noun|Paul verb|crash-Fin-Ind-Past-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	why Paul made me crash dis [: this] ?
+%mor:	adv|why noun|Paul verb|make-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 verb|crash-Inf-S pron|this-Dem-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	why he made me crash dis [: this] ?
+%mor:	adv|why pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 verb|crash-Inf-S pron|this-Dem-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	he made me crash dat [: that] off .
+%mor:	pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 verb|crash-Inf-S pron|that-Dem-S1 adv|off .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*CHI:	de [: the] wheels turn alright .
+%mor:	det|the-Def-Art noun|wheel-Plur verb|turn-Fin-Ind-Pres-P3 intj|alright .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	what are you doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	it'll be all set .
+%mor:	pron|it-Prs-Nom-S3~aux|will-Fin-S aux|be-Inf-S det|all-Def adj|set-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT

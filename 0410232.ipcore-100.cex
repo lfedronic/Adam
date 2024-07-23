@@ -1,0 +1,300 @@
+*CHI:	I [?] leave a day and I never eat it .
+%mor:	pron|I-Prs-Nom-S1 verb|leave-Fin-Ind-Pres-S1 det|a-Ind-Art noun|day cconj|and pron|I-Prs-Nom-S1 adv|never verb|eat-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBL-TMOD 5|8|CC 6|8|NSUBJ 7|8|ADVMOD 8|2|CONJ 9|8|OBJ 10|2|PUNCT
+*CHI:	it gets older den [: then] I eat it .
+%mor:	pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adj|old-Cmp-S1 adv|then pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|6|ADVMOD 5|6|NSUBJ 6|2|PARATAXIS 7|6|OBJ 8|2|PUNCT
+*CHI:	all_gone .
+%mor:	noun|allgone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	taking grain out .
+%mor:	verb|take-Ger-S noun|grain adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	one takes a load of grain with him and then drops it and then goes .
+%mor:	pron|one-Prs-S3 verb|take-Fin-Ind-Pres-S3 det|a-Ind-Art noun|load adp|of noun|grain adp|with pron|he-Prs-Acc-S3 cconj|and adv|then verb|drop-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cconj|and adv|then verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|8|CASE 8|2|OBL 9|11|CC 10|11|ADVMOD 11|2|CONJ 12|11|OBJ 13|15|CC 14|15|ADVMOD 15|11|CONJ 16|2|PUNCT
+*CHI:	isn't that right ?
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not adv|that adj|right-Pos-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	all the grain and then go .
+%mor:	det|all-Def det|the-Def-Art noun|grain cconj|and adv|then verb|go-Fin-Imp-S .
+%gra:	1|3|DET-PREDET 2|3|DET 3|6|ROOT 4|6|CC 5|6|ADVMOD 6|3|CONJ 7|3|PUNCT
+*CHI:	one's pouring lots_of grain .
+%mor:	num|one~part|s noun|pour noun|lotsof noun|grain .
+%gra:	1|5|NMOD-POSS 2|1|CASE 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	got helpers there .
+%mor:	verb|get-Fin-Ind-Past-S1 noun|helper-Plur adv|there .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	hey (.) it's getting sticky .
+%mor:	intj|hey pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|sticky-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	there's still more .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|still adj|more-Cmp-S1 .
+%gra:	1|2|EXPL 2|4|ROOT 3|2|ADVMOD 4|2|NSUBJ 5|2|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he's coming down .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adv|down .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	the spook [?] is .
+%mor:	det|the-Def-Art noun|spook aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	I'm putting all the grain in .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|put-Part-Pres-S det|all-Def det|the-Def-Art noun|grain adv|in .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*CHI:	now we hafta use the flower .
+%mor:	adv|now pron|we-Prs-Nom-P1 aux|hafta-Fin-S verb|use-Inf-S det|the-Def-Art noun|flower .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	this time I'm finished .
+%mor:	det|this-Def-Dem noun|time pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S .
+%gra:	1|2|DET 2|5|OBL-TMOD 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|5|ROOT 6|5|PUNCT
+*CHI:	I'm finished with dis [: this] (.) with the grain thrower .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S adp|with pron|this-Dem-S1 adp|with det|the-Def-Art noun|grain noun|thrower .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|9|ROOT 4|5|CASE 5|3|OBL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+*CHI:	with [?] dis [: this] .
+%mor:	adp|with pron|this-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	with dis [: this] grain thing .
+%mor:	adp|with det|this-Def-Dem noun|grain noun|thing .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	the grain thrower .
+%mor:	det|the-Def-Art noun|grain noun|thrower .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	I'm finished .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got pajamas .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|pajama-Plur .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	what d(o) you think the pajamas are for ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|pajama-Plur aux|be-Fin-Ind-Pres-P3 adp|for ?
+%gra:	1|4|CCOMP 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|1|NSUBJ 7|1|COP 8|1|CASE 9|4|PUNCT
+*CHI:	what are they here for ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adv|here adp|for ?
+%gra:	1|4|OBL 2|4|COP 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+*CHI:	in_case someone's clothes get wet ?
+%mor:	intj|incase pron|someone-Ind-S1~part|s noun|clothes-Plur aux|get-Fin-Ind-Pres-P3 adj|wet-Pos-S1 ?
+%gra:	1|6|DISCOURSE 2|4|NMOD-POSS 3|2|CASE 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+*CHI:	guess .
+%mor:	verb|guess-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I guess something else .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|something-Ind-S1 adj|else-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|3|AMOD 5|2|PUNCT
+*CHI:	guess what it is .
+%mor:	verb|guess-Fin-Imp-S pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|1|PUNCT
+*CHI:	I'm gonna keep dis [: this] grain thrower .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|keep-Inf-S det|this-Def-Dem noun|grain noun|thrower .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|XCOMP 8|4|PUNCT
+*CHI:	hey (.) all the grain is gone .
+%mor:	intj|hey det|all-Def det|the-Def-Art noun|grain aux|be-Fin-Ind-Pres-S3 adj|gone-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+*CHI:	now who wants grain ?
+%mor:	adv|now pron|who-Rel-S1 verb|want-Fin-Ind-Pres-S3 noun|grain ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	okay (.) here comes it .
+%mor:	intj|okay adv|here verb|come-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	one grain comes out .
+%mor:	num|one noun|grain verb|come-Fin-Ind-Pres-S3 adv|out .
+%gra:	1|2|NUMMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	another grain comes out (.) get bigger and bigger .
+%mor:	det|another-Def noun|grain verb|come-Fin-Ind-Pres-S3 adp|out verb|get-Fin-S adj|big-Cmp-S1 cconj|and adj|big-Cmp-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|COMPOUND-PRT 5|3|ADVCL 6|5|XCOMP 7|8|CC 8|6|CONJ 9|3|PUNCT
+*CHI:	get de [: the] grain out .
+%mor:	verb|get-Fin-Imp-S det|the-Def-Art noun|grain adp|out .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|PUNCT
+*CHI:	taste [//] (.) see what it taste like now .
+%mor:	verb|see-Fin-Imp-S pron|what-Rel-S1 pron|it-Prs-Nom-S3 verb|taste-Fin-Ind-Pres-S3 adp|like adv|now .
+%gra:	1|6|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|4|ADVMOD 7|1|PUNCT
+*CHI:	taste like cherries .
+%mor:	verb|taste-Inf-S adp|like noun|cherry-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	here comes Mommy .
+%mor:	adv|here verb|come-Fin-Ind-Pres-S3 noun|Mommy .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+*CHI:	she won't see this .
+%mor:	pron|she-Prs-Nom-S3 aux|will-Fin-S~part|not verb|see-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	puffer@c puffer@c puffer@c puffer@c .
+%mor:	noun|puffer noun|puffer noun|puffer noun|puffer .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	grain (.) fall in .
+%mor:	noun|grain noun|fall adv|in .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	grain .
+%mor:	noun|grain .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there you go .
+%mor:	pron|there-Int-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	we got a grain thrower (.) Mommy .
+%mor:	pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1 det|a-Ind-Art noun|grain noun|thrower noun|Mommy .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|5|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CHI:	Mommy (.) dis [: this] what we need the crackers for .
+%mor:	intj|mommy pron|this-Dem-S1 pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 det|the-Def-Art noun|cracker-Plur adp|for .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|DET 7|5|OBJ 8|5|OBL 9|3|PUNCT
+*CHI:	hey (.) look_it (.) Mommy (.) watch dis [: this] idea .
+%mor:	intj|hey noun|lookit noun|Mommy verb|watch-Fin-Imp-S det|this-Def-Dem noun|idea .
+%gra:	1|4|DISCOURSE 2|3|COMPOUND 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	watch dis [: this] (.) Mommy (.) watch dis [: this] .
+%mor:	verb|watch-Fin-Imp-S det|this-Def-Dem noun|Mommy verb|watch-Inf-S pron|this-Dem-S1 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+*CHI:	Mommy (.) watch dis [: this] .
+%mor:	noun|Mommy verb|watch-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	watch dis [: this] .
+%mor:	verb|watch-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	see (.) it fills the grain in .
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3 verb|fill-Fin-Ind-Pres-S3 det|the-Def-Art noun|grain adv|in .
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|CCOMP 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|1|PUNCT
+*CHI:	see (.) that's the grain thrower .
+%mor:	verb|see-Fin-Imp-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|grain noun|thrower .
+%gra:	1|6|ROOT 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|COMPOUND 6|1|CCOMP 7|1|PUNCT
+*CHI:	we put paper dere [: there] in_case it (.) oh dear .
+%mor:	pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Pres-P1 noun|paper adv|there adp|incase pron|it-Prs-Nom-S3 intj|oh adj|dear-Pos-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|2|ADVMOD 5|6|CASE 6|2|OBL 7|8|DISCOURSE 8|2|ADVCL 9|2|PUNCT
+*CHI:	dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all smoked up (.) sugar (.) go (.) in_case (.) you get stick .
+%mor:	det|all-Def verb|smoke-Part-Past-S adp|up noun|sugar verb|go-Fin-Ind-Pres-P3 adv|incase pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 noun|stick .
+%gra:	1|4|DET 2|4|AMOD 3|2|COMPOUND-PRT 4|5|NSUBJ 5|9|ROOT 6|5|ADVMOD 7|8|NSUBJ 8|5|PARATAXIS 9|8|OBJ 10|5|PUNCT
+*CHI:	hey (.) Mommy (.) could we have juice (.) me and Ursler ?
+%mor:	intj|hey noun|Mommy aux|could-Fin-S pron|we-Prs-Nom-P1 verb|have-Inf-S noun|juice pron|I-Prs-Acc-S1 cconj|and noun|Ursler ?
+%gra:	1|5|DISCOURSE 2|5|VOCATIVE 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|5|OBJ 7|6|APPOS 8|9|CC 9|7|CONJ 10|5|PUNCT
+*CHI:	Urs(u)la (.) you could stay and eat with us .
+%mor:	noun|Ursula pron|you-Prs-Nom-S2 aux|could-Fin-S verb|stay-Inf-S cconj|and verb|eat-Inf-S adp|with pron|we-Prs-Acc-P1 .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|CC 6|4|CONJ 7|8|CASE 8|6|OBL 9|4|PUNCT
+*CHI:	you could stay and drink with us .
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|stay-Inf-S cconj|and verb|drink-Inf-S adp|with pron|we-Prs-Acc-P1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	because you could .
+%mor:	sconj|because pron|you-Prs-Nom-S2 aux|could-Fin-S .
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	when [?] she come back she be surprised .
+%mor:	adv|when pron|she-Prs-Nom-S3 verb|come-Fin-Ind-Pres-S3 adv|back pron|she-Prs-Nom-S3 aux|be-Inf-S verb|surprise-Part-Past-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ADVCL 4|3|ADVMOD 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|7|ROOT 8|7|PUNCT
+*CHI:	hey (.) could I keep the ring and watch ?
+%mor:	intj|hey aux|could-Fin-S pron|I-Prs-Nom-S1 verb|keep-Inf-S det|the-Def-Art noun|ring cconj|and verb|watch-Inf-S ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|4|PUNCT
+*CHI:	I'm gonna keep one flower .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|keep-Inf-S num|one noun|flower .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NUMMOD 6|4|OBJ 7|4|PUNCT
+*CHI:	you can take the [/] (.) the two .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|take-Inf-S det|the-Def-Art num|two .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	flowers home .
+%mor:	noun|flower-Plur adv|home .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	hey (.) we forgot to make something .
+%mor:	intj|hey pron|we-Prs-Nom-P1 verb|forget-Fin-Ind-Past-P1 part|to verb|make-Inf-S pron|something-Ind-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	telescopes .
+%mor:	noun|telescope-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's a good idea to make .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-Pos-S1 noun|idea part|to verb|make-Inf-S .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|MARK 7|5|ACL 8|5|PUNCT
+*CHI:	I filled the grain up .
+%mor:	pron|I-Prs-Nom-S1 verb|fill-Fin-Ind-Past-S1 det|the-Def-Art noun|grain adv|up .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and den [: then] we gonna have great [?] fun .
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 adv|gonna verb|have-Fin-Ind-Pres-P1 adj|great-Pos-S1 noun|fun .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*CHI:	what you think would happen if I put a stick ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 aux|would-Fin-S verb|happen-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 det|a-Ind-Art noun|stick ?
+%gra:	1|5|NSUBJ 2|3|NSUBJ 3|1|ACL-RELCL 4|5|AUX 5|10|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+*CHI:	it will xxx the stick up ?
+%mor:	pron|it-Prs-Nom-S3 aux|will-Fin-S det|the-Def-Art verb|stick-Inf-S adp|up ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|DET 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	it can be no good .
+%mor:	pron|it-Prs-Nom-S3 aux|can-Fin-S aux|be-Inf-S adv|no adj|good-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	yeah (.) it's round .
+%mor:	intj|yeah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|round-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	while I put the grain (.) you gonna do the telescope .
+%mor:	sconj|while pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Pres-S1 det|the-Def-Art noun|grain pron|you-Prs-Nom-S2 aux|gonna-Fin-S verb|do-Inf-S det|the-Def-Art noun|telescope .
+%gra:	1|3|MARK 2|3|NSUBJ 3|8|ADVCL 4|5|DET 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*CHI:	now (.) stir .
+%mor:	adv|now verb|stir-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	it needs pumping .
+%mor:	pron|it-Prs-Nom-S3 verb|need-Fin-Ind-Pres-S3 noun|pump .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	hey (.) you want some grain to eat .
+%mor:	intj|hey pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def noun|grain part|to verb|eat-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|5|ACL 8|3|PUNCT
+*CHI:	oh oh (.) grain is for the horse .
+%mor:	intj|oh intj|oh noun|grain aux|be-Fin-Ind-Pres-S3 adp|for det|the-Def-Art noun|horse .
+%gra:	1|7|DISCOURSE 2|3|DISCOURSE 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+*CHI:	hey (.) what d(o) you think this is (.) if you hook it on to this flower ?
+%mor:	intj|hey pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 sconj|if pron|you-Prs-Nom-S2 verb|hook-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adp|on adp|to det|this-Def-Dem noun|flower ?
+%gra:	1|5|DISCOURSE 2|5|CCOMP 3|5|AUX 4|5|NSUBJ 5|15|ROOT 6|2|NSUBJ 7|2|COP 8|10|MARK 9|10|NSUBJ 10|5|ADVCL 11|10|OBJ 12|10|COMPOUND-PRT 13|15|CASE 14|15|DET 15|10|OBL 16|5|PUNCT
+*CHI:	that's a old-fashion(ed) telescope (.) right ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|oldfashioned-Pos-S1 noun|telescope adv|right ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	we have old-fashion(ed) glasses .
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|oldfashioned-Pos-S1 noun|glasses-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	show me a cold_fashion@c glasses .
+%mor:	verb|show-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|coldfashion noun|glasses-Plur .
+%gra:	1|5|ROOT 2|1|IOBJ 3|5|DET 4|5|COMPOUND 5|1|OBJ 6|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in_case you're hungry (.) I got grain .
+%mor:	adv|incase pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|hungry-Pos-S1 pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|grain .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|6|ADVCL 5|6|NSUBJ 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	that's a good idea .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-Pos-S1 noun|idea .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	yeah (.) I'm gonna put dis [: this] stick in after the grain comes out .
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Inf-S det|this-Def-Dem noun|stick adv|in sconj|after det|the-Def-Art noun|grain verb|come-Fin-Ind-Pres-S3 adp|out .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|13|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|12|MARK 10|11|DET 11|12|NSUBJ 12|5|ADVCL 13|12|COMPOUND-PRT 14|5|PUNCT
+*CHI:	hey (.) what_about the glasses (.) the old-fashion(ed) glasses ?
+%mor:	intj|hey intj|whatabout det|the-Def-Art noun|glasses-Plur det|the-Def-Art adj|oldfashioned-Pos-S1 noun|glasses-Plur ?
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|4|DET 4|7|NSUBJ 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	put more grain in .
+%mor:	verb|put-Fin-Imp-S adj|more-Cmp-S1 noun|grain adv|in .
+%gra:	1|4|ROOT 2|3|AMOD 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	putting all the grain in .
+%mor:	verb|put-Ger-S det|all-Def det|the-Def-Art noun|grain adv|in .
+%gra:	1|5|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|1|ADVMOD 6|1|PUNCT
+*CHI:	who wants some grain ?
+%mor:	pron|who-Rel-S1 verb|want-Fin-Ind-Pres-S3 det|some-Def noun|grain ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	this is the old-fashion(ed) telescope .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|oldfashioned-Pos-S1 noun|telescope .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	can I have <some glasses> [//] (.) my own [?] fashion glasses ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S pron|my-Prs-Gen-S1 adj|own-Pos-S1 noun|fashion noun|glasses-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|NMOD-POSS 5|7|AMOD 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*CHI:	where are they ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	where's the old-fashion(ed) glasses ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|oldfashioned-Pos-S1 noun|glasses-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT

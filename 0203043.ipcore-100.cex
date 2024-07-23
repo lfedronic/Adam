@@ -1,0 +1,300 @@
+*CHI:	write [?] circle .
+%mor:	verb|write-Fin-Imp-S noun|circle .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	circle right door .
+%mor:	noun|circle adj|right-Pos-S1 noun|door .
+%gra:	1|3|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	door .
+%mor:	noun|door .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bumb(le) bee .
+%mor:	noun|bumble noun|bee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx find bum(ble) bee .
+%mor:	verb|find-Fin-Imp-S noun|bumble noun|bee .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	my panda .
+%mor:	pron|my-Prs-Gen-S1 noun|panda .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	night_night night_night .
+%mor:	adj|nightnight-Pos-S1 noun|nightnight .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	okay Panda .
+%mor:	intj|okay noun|Panda .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	go night_night .
+%mor:	verb|go-Fin-Imp-S noun|nightnight .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	night [?] .
+%mor:	noun|night .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	night_night .
+%mor:	noun|nightnight .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	careful .
+%mor:	adj|careful-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	gonna fall .
+%mor:	adv|gonna verb|fall-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	over over over .
+%mor:	adv|over adv|over adv|over .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	fall over .
+%mor:	verb|fall-Fin-Imp-S adv|over .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	over .
+%mor:	adv|over .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	record Daddy .
+%mor:	noun|record noun|Daddy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Adam [/] Adam Smith .
+%mor:	noun|Adam noun|Smith .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	write that .
+%mor:	verb|write-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you write that .
+%mor:	pron|you-Prs-Nom-S2 verb|write-Fin-Ind-Pres-S2 pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	you do that .
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	ball .
+%mor:	noun|ball .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here (.) Mommy .
+%mor:	adv|here noun|Mommy .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	hit ball .
+%mor:	verb|hit-Fin-Imp-S noun|ball .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	get find tractor .
+%mor:	verb|get-Fin-Imp-S verb|find-Inf-S noun|tractor .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	who dat [: that] ?
+%mor:	pron|who-Rel-S1 pron|that-Dem-S1 ?
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	find [?] the bum(ble) bee ?
+%mor:	verb|find-Fin-Imp-S det|the-Def-Art noun|bumble noun|bee ?
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	find it (.) hm: ?
+%mor:	verb|find-Fin-Imp-S pron|it-Prs-Acc-S3 intj|hm ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	no (.) doggie (.) not there .
+%mor:	det|no-Def noun|doggie part|not adv|there .
+%gra:	1|2|DET 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	okay okay .
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	next .
+%mor:	adv|next .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	next Mommy .
+%mor:	adj|next-Pos-S1 noun|Mommy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	camping trip .
+%mor:	noun|camping noun|trip .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	do [?] you [?] see camping ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S noun|camping ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	camping camping .
+%mor:	noun|camping noun|camping .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	camping right there .
+%mor:	noun|camping adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	camping .
+%mor:	noun|camping .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cap cap cap .
+%mor:	noun|cap noun|cap noun|cap .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that Kepi@c [?] .
+%mor:	sconj|that noun|kepi .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	okay (.) doggie .
+%mor:	intj|okay noun|doggie .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Don Don Don Duck .
+%mor:	noun|Don noun|Don noun|Don noun|Duck .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+*CHI:	Don Don Don Duck go (.) Mommy ?
+%mor:	noun|Don noun|Don noun|Don noun|Duck verb|go-Inf-S noun|Mommy ?
+%gra:	1|5|NSUBJ 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	Donald_Duck .
+%mor:	noun|DonaldDuck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	part part .
+%mor:	noun|part noun|part .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	part (.) Mommy .
+%mor:	noun|part noun|Mommy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	part part part .
+%mor:	noun|part noun|part noun|part .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	part [= of toy] .
+%mor:	noun|part .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	part head .
+%mor:	noun|part noun|head .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	head go (.) Mommy ?
+%mor:	noun|head verb|go-Fin-Imp-S noun|Mommy ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	tractor .
+%mor:	noun|tractor .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put tractor Adam bike .
+%mor:	verb|put-Fin-Imp-S noun|tractor noun|Adam noun|bike .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	Adam tractor .
+%mor:	noun|Adam noun|tractor .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	go tractor .
+%mor:	verb|go-Fin-Imp-S noun|tractor .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	go right dere [: there] .
+%mor:	verb|go-Fin-Imp-S adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	put trailer up .
+%mor:	verb|put-Fin-Imp-S noun|trailer adv|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	I'm xxx [?] trailer up .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 noun|trailer adv|up .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	trailer trailer .
+%mor:	noun|trailer noun|trailer .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	look (.) a trailer .
+%mor:	verb|look-Fin-Imp-S det|a-Ind-Art noun|trailer .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	trailer .
+%mor:	noun|trailer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pull Adam bike .
+%mor:	verb|pull-Fin-Imp-S noun|Adam noun|bike .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	pull road_grader .
+%mor:	verb|pull-Fin-Imp-S noun|roadgrader .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	pull road_grader ?
+%mor:	verb|pull-Fin-Imp-S noun|roadgrader ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	pull tractor (.) Mommy ?
+%mor:	verb|pull-Fin-Imp-S noun|tractor noun|Mommy ?
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx pull tractor .
+%mor:	verb|pull-Fin-Imp-S noun|tractor .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	take head off [= toy] ?
+%mor:	verb|take-Fin-Imp-S noun|head adp|off ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	xxx take off ?
+%mor:	verb|take-Fin-Imp-S adp|off ?
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	off ?
+%mor:	adv|off ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	head ?
+%mor:	noun|head ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn xxx off head .
+%mor:	verb|turn-Inf-S adp|off noun|head .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*CHI:	turn xxx man head .
+%mor:	verb|turn-Inf-S noun|man noun|head .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	Tuffy boat .
+%mor:	noun|Tuffy noun|boat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Tuffy .
+%mor:	noun|Tuffy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	come here (.) Tuffy .
+%mor:	verb|come-Fin-Imp-S adv|here noun|Tuffy .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	comb hair .
+%mor:	noun|comb noun|hair .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	my [/] my [/] my comb hair .
+%mor:	pron|my-Prs-Gen-S1 noun|comb noun|hair .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	my comb .
+%mor:	pron|my-Prs-Gen-S1 noun|comb .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pocket in nere [: here] ?
+%mor:	noun|pocket adp|in adv|here ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	my comb hair (.) mine .
+%mor:	pron|my-Prs-Gen-S1 noun|comb noun|hair pron|mine-Prs-S1 .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	goa(t) .
+%mor:	noun|goat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	goat (.) yeah .
+%mor:	noun|goat intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	meow .
+%mor:	noun|meow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wee_wee@o home .
+%mor:	noun|weewee noun|home .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	who dat [: that] (.) Mommy ?
+%mor:	pron|who-Int-S1 det|that-Def-Dem noun|Mommy ?
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	see (.) Mommy ?
+%mor:	verb|see-Fin-Imp-S noun|Mommy ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Bozo .
+%mor:	noun|Bozo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Bozo (.) yeah .
+%mor:	noun|Bozo intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	poor bum(ble) bee .
+%mor:	adj|poor-Pos-S1 noun|bumble noun|bee .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	okay bum(ble) bee .
+%mor:	adj|okay-Pos-S1 noun|bumble noun|bee .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	ladder .
+%mor:	noun|ladder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read Kepi@c [?] .
+%mor:	verb|read-Fin-Imp-S noun|kepi .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	goo(d) night .
+%mor:	adj|good-Pos-S1 noun|night .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	circus .
+%mor:	noun|circus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where circus ?
+%mor:	adv|where noun|circus ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT

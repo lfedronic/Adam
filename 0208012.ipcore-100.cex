@@ -1,0 +1,300 @@
+*CHI:	wan(t) put down floor ?
+%mor:	verb|want-Fin-Imp-S verb|put-Part-Past-S adp|down noun|floor ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|2|OBJ 5|1|PUNCT
+*CHI:	gimme .
+%mor:	noun|gimme .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here's your [?] dollar .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|dollar .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	anybody ?
+%mor:	pron|anybody-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	every [?] any [?] body [?] ?
+%mor:	det|every-Def det|any-Def noun|body ?
+%gra:	1|3|DET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	body (.) want dollar ever [?] any body ?
+%mor:	noun|body verb|want-Fin-Ind-Pres-S3 noun|dollar adv|ever det|any-Def noun|body ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|DET 6|2|OBJ 7|2|PUNCT
+*CHI:	everybody ?
+%mor:	pron|everybody-Tot-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want dollar (.) everybody ?
+%mor:	verb|want-Fin-Imp-S noun|dollar pron|everybody-Tot-S1 ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx my face ?
+%mor:	pron|my-Prs-Gen-S1 noun|face ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	wh(at) (h)appen (.) taxi wheel ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-S noun|taxi noun|wheel ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	dropped .
+%mor:	verb|drop-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where go ?
+%mor:	adv|where verb|go-Fin-Imp-S2 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	you got it .
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	dropped it .
+%mor:	verb|drop-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	anybody (.) do want (.) anybody ?
+%mor:	pron|anybody-Ind-S1 aux|do-Fin-Ind-Pres-P3 verb|want-Inf-S pron|anybody-Ind-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	anybody .
+%mor:	pron|anybody-Ind-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) that for Cromer's .
+%mor:	intj|no pron|that-Dem-S1 adp|for noun|Cromer~part|s .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|CASE 4|2|NMOD 5|4|CASE 6|2|PUNCT
+*CHI:	Urler@c have one .
+%mor:	noun|Urler verb|have-Fin-Ind-Pres-P3 num|one .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	you have some .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|some-Def .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	buy (.) u(ni)corn (.) u(ni)corn dollar .
+%mor:	verb|buy-Fin-Imp-S noun|unicorn noun|unicorn noun|dollar .
+%gra:	1|4|ROOT 2|4|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	u(ni)corn .
+%mor:	noun|unicorn .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	u(ni)corn (.) yeah .
+%mor:	noun|unicorn intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	no (.) don't (.) dat [: that] for u(ni)corn .
+%mor:	intj|no aux|do-Fin-Imp-S~part|not pron|that-Dem-S1 adp|for noun|unicorn .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|ADVMOD 4|2|NSUBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*CHI:	dat [: that] for u(ni)corn .
+%mor:	pron|that-Dem-S1 adp|for noun|unicorn .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	come in (.) u(ni)corn .
+%mor:	verb|come-Fin-Imp-S adp|in noun|unicorn .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	come on (.) u(ni)corn .
+%mor:	verb|come-Fin-Imp-S adp|on noun|unicorn .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	drop .
+%mor:	verb|drop-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	watch me .
+%mor:	verb|watch-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	don't want (.) hat on .
+%mor:	aux|do-Fin-Ind-Pres-S~part|not verb|want-Fin-Imp-S noun|hat adv|on .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	oh (.) drop a dollar .
+%mor:	intj|oh verb|drop-Fin-Imp-S det|a-Ind-Art noun|dollar .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	u(ni)corn (.) bring (.) u(ni)corn .
+%mor:	noun|unicorn verb|bring-Fin-Imp-S noun|unicorn .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	pick doggie up .
+%mor:	verb|pick-Inf-Imp-S noun|doggie adv|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	pick a (.) horsie up (.) Mommy .
+%mor:	verb|pick-Fin-Imp-S det|a-Ind-Art noun|horsie adp|up noun|Mommy .
+%gra:	1|5|ROOT 2|5|DET 3|5|COMPOUND 4|3|COMPOUND-PRT 5|1|OBJ 6|1|PUNCT
+*CHI:	horsie up .
+%mor:	noun|horsie adv|up .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	u(ni)corn (.) come .
+%mor:	noun|unicorn verb|come-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	for (.) Mommy (.) help me reach .
+%mor:	adp|for noun|Mommy verb|help-Inf-S pron|I-Prs-Acc-S1 verb|reach-Inf-S .
+%gra:	1|2|CASE 2|3|OBL 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*CHI:	help (.) help (.) dollar .
+%mor:	verb|help-Fin-Imp-S verb|help-Inf-S noun|dollar .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	play money .
+%mor:	verb|play-Fin-Imp-S noun|money .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	don't play it .
+%mor:	aux|do-Fin-Imp-S~part|not verb|play-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	don't play .
+%mor:	aux|do-Fin-Imp-S~part|not verb|play-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	dat [: that] a (.) for (.) u(ni)corn .
+%mor:	sconj|that det|a-Ind-Art adp|for noun|unicorn .
+%gra:	1|2|MARK 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	here (.) u(ni)corn .
+%mor:	adv|here noun|unicorn .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	that for other u(ni)corn .
+%mor:	sconj|that adp|for adj|other-Pos-S1 noun|unicorn .
+%gra:	1|4|MARK 2|4|CASE 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay (.) Mommy .
+%mor:	intj|okay noun|Mommy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	that's for (.) another (.) Mommy .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adp|for det|another-Def noun|mommy .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	new one ?
+%mor:	adj|new-Pos-S1 noun|one ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Urs(u)la buy Adam dis [: this] one .
+%mor:	noun|Ursula verb|buy-Fin-S noun|Adam det|this-Def-Dem noun|one .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	buy dis [: this] one .
+%mor:	verb|buy-Fin-Imp-S det|this-Def-Dem noun|one .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	okay (.) u(ni)corn .
+%mor:	intj|okay noun|unicorn .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	don't (.) be (.) (a)fraid (.) (a)fraid a horses .
+%mor:	aux|do-Fin-Imp-S~part|not aux|be-Fin-Imp-S adj|afraid-Pos-S1 adj|afraid-Pos-S1 det|a-Ind-Art noun|horse-Plur .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|COP 4|7|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+*CHI:	hoses .
+%mor:	noun|hose-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(.) going horses .
+%mor:	verb|go-Ger-S noun|horse-Plur .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you (.) alright (.) hm: ?
+%mor:	pron|you-Prs-Nom-S2 intj|alright intj|hm ?
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|2|FLAT 4|1|PUNCT
+*CHI:	you (.) watch .
+%mor:	pron|you-Prs-Nom-S2 verb|watch-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	you miss it you miss it you miss it .
+%mor:	pron|you-Prs-Nom-S2 verb|miss-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|miss-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|miss-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|NSUBJ 5|2|PARATAXIS 6|5|OBJ 7|8|NSUBJ 8|2|PARATAXIS 9|8|OBJ 10|2|PUNCT
+*CHI:	watch .
+%mor:	verb|watch-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	le(t) me [?] .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	put it (i)n a hat .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|a-Ind-Art noun|hat .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	xxx in a hat .
+%mor:	adp|in det|a-Ind-Art noun|hat .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	putting [?] horsie [?] in a hat .
+%mor:	verb|put-Ger-S noun|horsie adp|in det|a-Ind-Art noun|hat .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	in a Rusty hat .
+%mor:	adp|in det|a-Ind-Art noun|Rusty noun|hat .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	going shopping .
+%mor:	verb|go-Ger-S noun|shopping .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	buy money (.) pay Rusty .
+%mor:	verb|buy-Fin-Imp-S noun|money verb|pay-Inf-S noun|Rusty .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	buy shopping (.) pay money ?
+%mor:	verb|buy-Fin-Imp-S noun|shopping noun|pay noun|money ?
+%gra:	1|4|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	shopping .
+%mor:	noun|shopping .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I going shopping .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Ger-S noun|shopping .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	put it in (th)ere .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adv|there .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	dollar book (.) too .
+%mor:	noun|dollar noun|book adv|too .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	there a book .
+%mor:	pron|there-Int-S1 det|a-Ind-Art noun|book .
+%gra:	1|3|EXPL 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	book too .
+%mor:	verb|book-Inf-S adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	there's a book too .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|book adv|too .
+%gra:	1|2|EXPL 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	book too book too .
+%mor:	verb|book-Inf-S adv|too noun|book adv|too .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	there's a book .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|book .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	dollar book .
+%mor:	noun|dollar noun|book .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	look book .
+%mor:	verb|look-Fin-Imp-S noun|book .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	wan(t) (t)a [?] (.) go in a bag ?
+%mor:	verb|want-Fin-Imp-S part|to verb|go-Inf-S adp|in det|a-Ind-Art noun|bag ?
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+*CHI:	le(t) me take out .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S adp|out .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	wow .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	long .
+%mor:	adv|long .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	gone where ?
+%mor:	verb|go-Part-Past-S adv|where ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	where dis [: this] goes .
+%mor:	adv|where pron|this-Dem-S1 verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	see you plug it in ?
+%mor:	verb|see-Fin-Imp-S pron|you-Prs-Acc-S2 verb|plug-Inf-S pron|it-Prs-Acc-S3 adv|in ?
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+*CHI:	no (.) no (.) Mommy .
+%mor:	intj|no intj|no noun|Mommy .
+%gra:	1|3|ROOT 2|3|DISCOURSE 3|1|VOCATIVE 4|1|PUNCT
+*CHI:	Urs(u)la .
+%mor:	noun|Ursula .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what dat [: that] (.) .
+%mor:	det|what-Def-Int pron|that-Dem-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	chin .
+%mor:	noun|chin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam .
+%mor:	noun|Adam .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam (.) Mommy .
+%mor:	noun|Adam noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	Adam throw .
+%mor:	noun|Adam verb|throw-Fin-Ind-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	throw dis [: this] (a)way .
+%mor:	verb|throw-Fin-Imp-S pron|this-Dem-S1 adv|away .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	le(t) me play with it .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|play-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|CASE 5|3|OBL 6|1|PUNCT
+*CHI:	Mommy ?
+%mor:	noun|Mommy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) going going home .
+%mor:	intj|no verb|go-Ger-S verb|go-Ger-S adv|home .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+*CHI:	going home with it [=? the] glo(ve) [?] .
+%mor:	verb|go-Ger-S adv|home adp|with pron|it-Prs-Acc-S3 noun|glove .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|5|CASE 4|5|NMOD-POSS 5|1|OBL 6|1|PUNCT

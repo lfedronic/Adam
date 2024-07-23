@@ -1,0 +1,300 @@
+*CHI:	book .
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read book .
+%mor:	verb|read-Fin-Imp-S noun|book .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	ups_a_daisy .
+%mor:	noun|upsadaisy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	up ups_a_daisy .
+%mor:	adv|up noun|upsadaisy .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	where book ?
+%mor:	adv|where noun|book ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	sitting chair .
+%mor:	verb|sit-Ger-S noun|chair .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	drop bean .
+%mor:	verb|drop-Inf-S noun|bean .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	read Papa bear .
+%mor:	verb|read-Fin-Imp-S noun|Papa noun|bear .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	bunny_rabbit .
+%mor:	noun|bunnyrabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	like Bambi .
+%mor:	adp|like noun|Bambi .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	hurry [?] hurry [?] .
+%mor:	verb|hurry-Inf-S noun|hurry .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	running .
+%mor:	noun|running .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bunny_rabbit rabbit running .
+%mor:	noun|bunnyrabbit noun|rabbit noun|running .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	stick you .
+%mor:	verb|stick-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx dancing .
+%mor:	noun|dancing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what happen (.) Mommy ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-S noun|Mommy ?
+%gra:	1|3|ROOT 2|1|ACL-RELCL 3|2|OBJ 4|1|PUNCT
+*CHI:	poor Urler@c .
+%mor:	adj|poor-Pos-S1 noun|Urler .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	poor Cromer .
+%mor:	adj|poor-Pos-S1 noun|Cromer .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	my mine .
+%mor:	pron|my-Prs-Gen-S1 pron|mine-Prs-S1 .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiger .
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hungry .
+%mor:	adj|hungry-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one Mommy .
+%mor:	num|one noun|mommy .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	one Daddy .
+%mor:	num|one noun|Daddy .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	jelly .
+%mor:	noun|jelly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	jelly (.) Mommy .
+%mor:	noun|jelly noun|Mommy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	dat [: that] .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what dat [: that] (.) Mommy ?
+%mor:	pron|what-Int-S1 det|that-Def-Dem noun|Mommy ?
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	tell Urler@c .
+%mor:	verb|tell-Fin-Imp-S noun|Urler .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*CHI:	go walking .
+%mor:	verb|go-Fin-Imp-S noun|walking .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	step book .
+%mor:	noun|step noun|book .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	yellow .
+%mor:	adj|yellow-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red .
+%mor:	adj|red-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	just like xxx .
+%mor:	adv|just intj|like .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	lion .
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put (to)gether .
+%mor:	verb|put-Fin-Imp-S adv|together .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	oh no (.) put (to)gether .
+%mor:	intj|oh intj|no verb|put-Fin-S adv|together .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	show you ?
+%mor:	verb|show-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*CHI:	grapefruit .
+%mor:	noun|grapefruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(a)round .
+%mor:	adv|around .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn (a)round .
+%mor:	verb|turn-Inf-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	puppy .
+%mor:	noun|puppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	puppy dog .
+%mor:	noun|puppy noun|dog .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go dere [: there] (.) Mommy ?
+%mor:	verb|go-Fin-Imp-S adv|there noun|Mommy ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	pretty (.) Mommy ?
+%mor:	adv|pretty noun|mommy ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	one one one pretty ?
+%mor:	num|one num|one num|one adj|pretty-Pos-S1 ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	over (.) Mommy ?
+%mor:	adp|over noun|Mommy ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Perro off .
+%mor:	noun|Perro adv|off .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Perro alright .
+%mor:	noun|Perro intj|alright .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	hahaha .
+%mor:	intj|hahaha .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	knock over .
+%mor:	verb|knock-Fin-Imp-S adv|over .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	yeah (.) funny .
+%mor:	intj|yeah adj|funny-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	go over .
+%mor:	verb|go-Fin-Imp-S adv|over .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn over .
+%mor:	verb|turn-Inf-S adv|over .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	turn round .
+%mor:	verb|turn-Inf-S adv|round .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	turn it [?] (a)round ?
+%mor:	verb|turn-Fin-Imp-S pron|it-Prs-Acc-S3 adv|around ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	hammer ?
+%mor:	noun|hammer ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look like hammer .
+%mor:	verb|look-Fin-Imp-S adp|like noun|hammer .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	hammer .
+%mor:	noun|hammer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doggie .
+%mor:	noun|doggie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dog have [?] hole [?] .
+%mor:	noun|dog verb|have-Fin-Ind-Pres-P3 noun|hole .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	where doggie go ?
+%mor:	adv|where noun|doggie verb|go-Fin-Ind-Pres-P3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	doggie ?
+%mor:	noun|doggie ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doggie (.) Mommy ?
+%mor:	noun|doggie noun|Mommy ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	find doggie .
+%mor:	verb|find-Fin-Imp-S noun|doggie .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	doggie (.) Mommy .
+%mor:	noun|doggie noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	tiger (.) too [=? two] .
+%mor:	noun|tiger adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	too [=? two] ?
+%mor:	adv|too ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	too [=? two] (.) over dere [: there] .
+%mor:	adv|too adp|over adv|there .
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	look (.) big boy .
+%mor:	verb|look-Fin-Imp-S adj|big-Pos-S1 noun|boy .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	turn .
+%mor:	verb|turn-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turning that .
+%mor:	verb|turn-Ger-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	sorry sorry sorry sorry .
+%mor:	adj|sorry-Pos-S1 adj|sorry-Pos-S1 adj|sorry-Pos-S1 adj|sorry-Pos-S1 .
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|DISCOURSE 5|1|PUNCT
+*CHI:	(ex)cuse me .
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*CHI:	Daddy .
+%mor:	noun|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	heavy .
+%mor:	adj|heavy-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	brushing broken .
+%mor:	noun|brushing verb|break-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	four (.) eight (.) nine .
+%mor:	num|four num|eight num|nine .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	buy milk .
+%mor:	verb|buy-Fin-Imp-S noun|milk .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	buy xxx .
+%mor:	verb|buy-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	buy xxx (.) Mommy .
+%mor:	verb|buy-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	be careful .
+%mor:	aux|be-Fin-Imp-S adj|careful-Pos-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	hit .
+%mor:	verb|hit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hit (.) head (.) chair head .
+%mor:	verb|hit-Fin-Imp-S noun|head noun|chair noun|head .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	chair head .
+%mor:	noun|chair noun|head .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	table hit (.) head .
+%mor:	noun|table noun|hit noun|head .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	head hit table .
+%mor:	noun|head verb|hit-Fin-Past-S noun|table .
+%gra:	1|2|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	Perro (.) read book .
+%mor:	noun|Perro verb|read-Fin-Ind-Past-S3 noun|book .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Adam read book .
+%mor:	noun|Adam verb|read-Fin-Ind-Past-S3 noun|book .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	(ex)cuse me (.) Mommy .
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 noun|Mommy .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	(ex)cuse .
+%mor:	verb|excuse-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn turn over (.) Mommy .
+%mor:	noun|turn verb|turn-Inf-S adp|over noun|Mommy .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+*CHI:	drop it .
+%mor:	verb|drop-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT

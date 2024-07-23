@@ -1,0 +1,300 @@
+*CHI:	cowboy like it footballs .
+%mor:	noun|cowboy adp|like pron|it-Prs-Acc-S3 noun|football-Plur .
+%gra:	1|4|ROOT 2|3|CASE 3|1|NMOD 4|1|NMOD 5|1|PUNCT
+*CHI:	basketball .
+%mor:	noun|basketball .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what basketball ?
+%mor:	det|what-Def-Int noun|basketball ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	what basketball dat [: that] ?
+%mor:	det|what-Def-Int noun|basketball pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	football game .
+%mor:	noun|football noun|game .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	what football game .
+%mor:	det|what-Def-Int noun|football noun|game .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	train coming .
+%mor:	noun|train verb|come-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	all time train .
+%mor:	det|all-Def noun|time noun|train .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	look (.) cowboy .
+%mor:	verb|look-Fin-Imp-S noun|cowboy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	dat's [: that's] [?] a man tired .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|man adj|tired-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+*CHI:	man tired .
+%mor:	noun|man adj|tired-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx come on (.) pal .
+%mor:	verb|come-Fin-Imp-S adp|on noun|pal .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	let's go come on (.) pal .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S verb|come-Inf-S adp|on noun|pal .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|6|CASE 6|4|OBL 7|1|PUNCT
+*CHI:	Mommy (.) come on (.) pail .
+%mor:	noun|Mommy verb|come-Fin-Ind-S adp|on noun|pail .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	come on (.) pail (.) Mommy .
+%mor:	verb|come-Fin-Imp-S adp|on noun|pail noun|Mommy .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|PUNCT
+*CHI:	come on (.) pail .
+%mor:	verb|come-Fin-Imp-S adp|on noun|pail .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	let's go (.) pail .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S noun|pail .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|1|PUNCT
+*CHI:	dat's [: that's] a pail .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pail .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	a pail .
+%mor:	det|a-Ind-Art noun|pail .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	pail ?
+%mor:	noun|pail ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	like a house .
+%mor:	adp|like det|a-Ind-Art noun|house .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	cowboy like a house .
+%mor:	noun|cowboy adp|like det|a-Ind-Art noun|house .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*CHI:	dat's [: that's] a rooster .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|rooster .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	cock_a_doodle@o fresh .
+%mor:	noun|cockadoodle adj|fresh-Pos-S1 .
+%gra:	1|2|ROOT 2|1|ACL 3|1|PUNCT
+*CHI:	wake up wake up .
+%mor:	verb|wake-Fin-Imp-S adp|up verb|wake-Inf-S adp|up .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	no eat .
+%mor:	det|no-Def noun|eat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	rooster .
+%mor:	noun|rooster .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what (.) dat [: that] (.) Mommy .
+%mor:	pron|what-Int-S1 det|that-Def-Dem noun|Mommy .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	what de [: the] cow got on it ?
+%mor:	pron|what-Rel-S1 det|the-Def-Art noun|cow verb|get-Fin-Ind-Past-S3 adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|6|ROOT 2|3|DET 3|4|NSUBJ 4|1|ACL-RELCL 5|6|CASE 6|4|OBL 7|1|PUNCT
+*CHI:	two weather [?] .
+%mor:	num|two noun|weather .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	weather [?] .
+%mor:	noun|weather .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	let me do it [= turn the page] .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	oh football game .
+%mor:	intj|oh noun|football noun|game .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	show man sleep a bunkhouse .
+%mor:	verb|show-Inf-S noun|man verb|sleep-Inf-S det|a-Ind-Art noun|bunkhouse .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|CCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	Pappy (.) Mommy .
+%mor:	noun|Pappy noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	does he ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	dat [: that] a man .
+%mor:	sconj|that det|a-Ind-Art noun|man .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	man got a moustache .
+%mor:	noun|man verb|get-Fin-Ind-Past-S3 det|a-Ind-Art noun|moustache .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	been .
+%mor:	aux|be-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	beard (.) yeah (.) beard (.) Mommy .
+%mor:	noun|beard intj|yeah noun|beard noun|Mommy .
+%gra:	1|4|ROOT 2|4|DISCOURSE 3|4|COMPOUND 4|1|VOCATIVE 5|1|PUNCT
+*CHI:	call beard .
+%mor:	verb|call-Inf-Imp-S noun|beard .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	where my hat .
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|hat .
+%gra:	1|3|ADVMOD 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	cowboy's [=? cowboy's] .
+%mor:	noun|cowboy~part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	where cowboy ?
+%mor:	adv|where noun|cowboy ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	where beard ?
+%mor:	adv|where noun|beard ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	got a beard on it .
+%mor:	verb|get-Fin-Ind-Past-S1 det|a-Ind-Art noun|beard adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*CHI:	take it on [?] .
+%mor:	verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adv|on .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	beard .
+%mor:	noun|beard .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cook beard .
+%mor:	verb|cook-Inf-Imp-S noun|beard .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	dat [: that] a bear [?] beard .
+%mor:	sconj|that det|a-Ind-Art noun|bear noun|beard .
+%gra:	1|4|MARK 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	I miss it .
+%mor:	pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	looking (.) I miss beard .
+%mor:	verb|look-Ger-S pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 noun|beard .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	cowboy funny .
+%mor:	noun|cowboy adj|funny-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy xxx .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you xxx fighting Rin_tin_tin .
+%mor:	pron|you-Prs-Nom-S2 verb|fight-Ger-S noun|Rintintin .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Rin_tin_tin .
+%mor:	noun|Rintintin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Rin_tin_tin don't fight me .
+%mor:	noun|Rintintin aux|do-Fin-Ind-Pres-P3~part|not verb|fight-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	who hat dat [: that] ?
+%mor:	pron|who-Int-S1 verb|hat-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	who dat [: that] (.) beard ?
+%mor:	pron|who-Rel-S1 det|that-Def-Dem noun|beard ?
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	Shadow's Shadow's .
+%mor:	noun|Shadow~part|s noun|Shadow~part|s .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|ROOT 4|1|CASE 5|3|PUNCT
+*CHI:	Shadow has [?] hat just like that .
+%mor:	noun|Shadow verb|have-Fin-Ind-Pres-S3 noun|hat adv|just adp|like pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|CASE 6|2|OBL 7|2|PUNCT
+*CHI:	shadow too (s)mall .
+%mor:	noun|shadow adv|too adj|small-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	put a [?] up ?
+%mor:	verb|put-Fin-Imp-S det|a-Ind-Art noun|up ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	drop it .
+%mor:	verb|drop-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bad boy .
+%mor:	adj|bad-Pos-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	get all face and hands mouth .
+%mor:	verb|get-Fin-Imp-S det|all-Def noun|face cconj|and noun|hand-Plur noun|mouth .
+%gra:	1|6|ROOT 2|3|DET 3|6|COMPOUND 4|5|CC 5|3|CONJ 6|1|OBJ 7|1|PUNCT
+*CHI:	medicine (.) Mommy .
+%mor:	noun|medicine noun|Mommy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	medicine medicine .
+%mor:	noun|medicine noun|medicine .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	cowboy put some medicine .
+%mor:	noun|cowboy verb|put-Fin-Ind-Pres-S3 det|some-Def noun|medicine .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I sleeping .
+%mor:	pron|I-Prs-Nom-S1 verb|sleep-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx sleeping bunkhouse (.) Mommy .
+%mor:	verb|sleep-Ger-S noun|bunkhouse noun|Mommy .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	no (.) sleeping floor .
+%mor:	det|no-Def noun|sleeping noun|floor .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	I sleeping too .
+%mor:	pron|I-Prs-Nom-S1 verb|sleep-Ger-Pres-S adv|too .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	where cow hat ?
+%mor:	adv|where noun|cow noun|hat ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	cowboy lost a hat .
+%mor:	noun|cowboy verb|lose-Fin-Ind-Past-S3 det|a-Ind-Art noun|hat .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	what dat [: that] (.) beard .
+%mor:	det|what-Def-Int det|that-Def-Dem noun|beard .
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	beard (.) yeah .
+%mor:	noun|beard intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	flag .
+%mor:	noun|flag .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what dat [: that] (.) Bambi .
+%mor:	pron|what-Int-S1 det|that-Def-Dem noun|Bambi .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	eagle .
+%mor:	noun|eagle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eagle flying (.) Mommy .
+%mor:	noun|eagle verb|fly-Ger-S noun|Mommy .
+%gra:	1|2|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about xxx birdie ?
+%mor:	adj|whatabout-Pos-S1 noun|birdie ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	what_about Rin_tin_tin fly ?
+%mor:	noun|whatabout noun|Rintintin verb|fly-Fin-Ind-S ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	cowboy (.) don't fly .
+%mor:	noun|cowboy aux|do-Fin-S~part|not verb|fly-Fin-Imp-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	Rin_tin_tin don't fly (.) Mommy .
+%mor:	noun|Rintintin aux|do-Fin-Ind-Pres-S3~part|not verb|fly-Inf-S noun|Mommy .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	(.) doesn't fly .
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|fly-Inf-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	birdie fly .
+%mor:	noun|birdie noun|fly .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Rin_tin_tin (.) somebody xxx .
+%mor:	noun|Rintintin pron|somebody-Ind-S1 .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	who did ?
+%mor:	pron|who-Rel-S1 aux|do-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	cowboy did .
+%mor:	noun|cowboy aux|do-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy did .
+%mor:	noun|Mommy aux|do-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	cowboy hat .
+%mor:	noun|cowboy noun|hat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	I'm climbing .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|climb-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	climbing .
+%mor:	noun|climb .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dog miss it .
+%mor:	noun|dog verb|miss-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mike (.) okay ?
+%mor:	noun|mike intj|okay ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	finished .
+%mor:	verb|finish-Fin-Ind-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my paper .
+%mor:	pron|my-Prs-Gen-S1 noun|paper .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	where my pen (.) Urs(u)la ?
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|pen noun|Ursula ?
+%gra:	1|4|ADVMOD 2|4|NMOD-POSS 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	Cromer .
+%mor:	noun|Cromer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	let me slip down .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|slip-Inf-S adv|down .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*CHI:	here we are .
+%mor:	adv|here pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	le(t) me go round .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|go-Inf-S adv|round .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*CHI:	here (.) Cromer .
+%mor:	adv|here noun|Cromer .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	you (.) take (.) candy .
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S2 noun|candy .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	get candy (.) mouth .
+%mor:	verb|get-Fin-Imp-S noun|candy noun|mouth .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat's [: that's] right .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	(.) Adam ate [?] candy .
+%mor:	noun|Adam verb|eat-Fin-Ind-Past-S3 noun|candy .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	cold .
+%mor:	adj|cold-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wet .
+%mor:	adj|wet-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	snowing Cromer .
+%mor:	verb|snow-Ger-S noun|Cromer .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you wet ?
+%mor:	pron|you-Prs-Nom-S2 verb|wet-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	bit .
+%mor:	noun|bit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay (.) Cromer .
+%mor:	intj|okay noun|Cromer .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	where Momma ?
+%mor:	adv|where noun|Momma ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	what you [?] doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I playing Urs(u)la .
+%mor:	pron|I-Prs-Nom-S1 verb|play-Ger-S noun|Ursula .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Urs(u)la .
+%mor:	noun|Ursula .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what dat [: that] noise ?
+%mor:	det|what-Def-Int det|that-Def-Dem noun|noise ?
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	noise .
+%mor:	noun|noise .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(ex)cuse please .
+%mor:	verb|excuse-Fin-Imp-S intj|please .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	where is it ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	my pencil .
+%mor:	pron|my-Prs-Gen-S1 noun|pencil .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	(ex)cuse me (.) Cromer .
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 noun|Cromer .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	dat [: that] one .
+%mor:	det|that-Def-Dem num|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dere [: there] (.) Cromer .
+%mor:	pron|there-Int-S1 noun|Cromer .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pinwheel pinwheel .
+%mor:	noun|pinwheel noun|pinwheel .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	pinwheel pinwheel pinwheel .
+%mor:	noun|pinwheel noun|pinwheel noun|pinwheel .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	fourteen pinwheel .
+%mor:	num|fourteen noun|pinwheel .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	look (.) Mommy .
+%mor:	verb|look-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	pinwheel (.) pushing .
+%mor:	noun|pinwheel noun|push .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	pushing door [?] .
+%mor:	verb|push-Ger-S noun|door .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	door [?] .
+%mor:	noun|door .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look (.) xxx before .
+%mor:	verb|look-Fin-Imp-S adv|before .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	pinwheel .
+%mor:	noun|pinwheel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	penguin .
+%mor:	noun|penguin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	right dere [: there] .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Jesus .
+%mor:	noun|Jesus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Butch .
+%mor:	noun|Butch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Butch in Bozo .
+%mor:	noun|Butch adp|in noun|Bozo .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	dat [: that] (.) Butch bed .
+%mor:	det|that-Def-Dem noun|Butch noun|bed .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	excuse me (.) please .
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 intj|please .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	dat [: that] (.) Rusty hat .
+%mor:	sconj|that noun|Rusty noun|hat .
+%gra:	1|3|MARK 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Rusty hat .
+%mor:	noun|Rusty noun|hat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] right (.) Rusty .
+%mor:	det|that-Def-Dem adj|right-Pos-S1 noun|Rusty .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	have blue .
+%mor:	verb|have-Fin-Imp-S adj|blue-Pos-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	name (.) name .
+%mor:	noun|name noun|name .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	name (.) Mommy name (.) Mommy .
+%mor:	noun|name noun|Mommy noun|name noun|Mommy .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|1|CONJ 4|1|APPOS 5|1|PUNCT
+*CHI:	dat's [: that's] true (.) yeah .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|true-Pos-S1 intj|yeah .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	what you doing (.) Mommy ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-S noun|Mommy ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	make Urs(u)la (.) milk ?
+%mor:	verb|make-Fin-Imp-S noun|Ursula noun|milk ?
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	for me ?
+%mor:	adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	le(t) me (.) have (.) cup of coffee ?
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|have-Inf-S noun|cup adp|of noun|coffee ?
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	magazine .
+%mor:	noun|magazine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read magazine (.) please .
+%mor:	verb|read-Fin-Imp-S noun|magazine intj|please .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	dat [: that] Urs(u)la's [?] coffee .
+%mor:	sconj|that noun|Ursula~part|s noun|coffee .
+%gra:	1|4|MARK 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	dat [: that] Cromer .
+%mor:	sconj|that noun|Cromer .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Adam .
+%mor:	noun|Adam .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] Urs(u)la's [?] .
+%mor:	sconj|that noun|Ursula~part|s .
+%gra:	1|2|DET 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	do [/] do want cup coffee ?
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-S noun|cup noun|coffee ?
+%gra:	1|2|AUX 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	a cup of coffee .
+%mor:	det|a-Ind-Art noun|cup adp|of noun|coffee .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	dat [: that] my cup .
+%mor:	sconj|that pron|my-Prs-Gen-S1 noun|cup .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	dis [: this] my coffee ?
+%mor:	pron|this-Dem-S1 pron|my-Prs-Gen-S1 noun|coffee ?
+%gra:	1|3|NSUBJ 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	dat [: that] Cromer's .
+%mor:	sconj|that noun|Cromer~part|s .
+%gra:	1|2|DET 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	thank_you (.) Mommy .
+%mor:	intj|thankyou noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	come in (.) Cromer .
+%mor:	verb|come-Fin-Imp-S adp|in noun|Cromer .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	come on .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	yes (.) have in here .
+%mor:	intj|yes verb|have-Fin-Imp-S adp|in adv|here .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	I will .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	take in here .
+%mor:	verb|take-Fin-Imp-S adp|in adv|here .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|ADVMOD 4|1|PUNCT
+*CHI:	stay dere [: there] .
+%mor:	verb|stay-Fin-Imp-S adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	coffee .
+%mor:	noun|coffee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do want coffee (.) Cromer .
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-S noun|coffee noun|Cromer .
+%gra:	1|2|AUX 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	dat [: that] mine cup .
+%mor:	sconj|that pron|mine-Prs-S1 noun|cup .
+%gra:	1|3|DET 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	d(o) you [?] do want some ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|do-Inf-S verb|want-Inf-S det|some-Def ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	big heavy .
+%mor:	adj|big-Pos-S1 adj|heavy-Pos-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah (.) stay dere [: there] .
+%mor:	intj|yeah verb|stay-Fin-Imp-S adv|there .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	very nice .
+%mor:	adv|very adj|nice-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do [/] do wan(t) (t)a sugar ?
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-S adp|of noun|sugar ?
+%gra:	1|2|AUX 2|4|ROOT 3|4|CASE 4|2|OBJ 5|2|PUNCT
+*CHI:	d(o) you [?] want milk ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|milk ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	le(t) me put de [: the] milk (.) Cromer .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|put-Inf-S det|the-Def-Art noun|milk noun|Cromer .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|DET 5|3|OBJ 6|3|OBJ 7|1|PUNCT
+*CHI:	le(t) me want milk .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|want-Inf-S noun|milk .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	thank_you (.) Cromer .
+%mor:	noun|thankyou noun|Cromer .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	Cromer's .
+%mor:	noun|Cromer~part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	I sit other side .
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Pres-S1 adj|other-Pos-S1 noun|side .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	dat [: that] (.) no .
+%mor:	sconj|that intj|no .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	one (.) two (.) three (.) four (.) five .
+%mor:	num|one num|two num|three num|four num|five .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|5|ROOT 4|5|NUMMOD 5|3|CONJ 6|3|PUNCT
+*CHI:	forty four .
+%mor:	num|forty num|four .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	don't play it yet .
+%mor:	aux|do-Fin-Imp-S~part|not verb|play-Fin-Imp-S pron|it-Prs-Acc-S3 adv|yet .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	dis [: this] .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	can [?] you [?] play it yet or not ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|play-Inf-S pron|it-Prs-Acc-S3 adv|yet cconj|or part|not ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CC 7|5|CONJ 8|3|PUNCT
+*CHI:	I say no .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 intj|no .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do [?] you say yes ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S intj|yes ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	it's not heavy .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|heavy-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I'm gonna get my mommy .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|get-Inf-S pron|my-Prs-Gen-S1 noun|mommy .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx my dog (.) now .
+%mor:	pron|my-Prs-Gen-S1 noun|dog adv|now .
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	come on (.) I'm gonna show you .
+%mor:	verb|come-Fin-Imp-S adp|on pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|show-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|1|PARATAXIS 7|6|IOBJ 8|1|PUNCT
+*CHI:	you just can walk to the window .
+%mor:	pron|you-Prs-Nom-S2 adv|just aux|can-Fin-S verb|walk-Inf-S adp|to det|the-Def-Art noun|window .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	yeah (.) my daddy drived [: drove] [* +ed] it in .
+%mor:	intj|yeah pron|my-Prs-Gen-S1 noun|daddy verb|drive-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adv|in .
+%gra:	1|4|DISCOURSE 2|3|NMOD-POSS 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*CHI:	Rin !
+%mor:	noun|Rin !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	see that black dog ?
+%mor:	verb|see-Fin-Imp-S det|that-Def-Dem adj|black-Pos-S1 noun|dog ?
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	that's Rinny .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Rinny .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	and that's my banjo .
+%mor:	cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|banjo .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+*CHI:	can sing to make jingle bells .
+%mor:	aux|can-Fin-S verb|sing-Inf-S part|to verb|make-Inf-S noun|jingle noun|bell-Plur .
+%gra:	1|2|AUX 2|6|ROOT 3|4|MARK 4|2|ADVCL 5|6|COMPOUND 6|4|OBJ 7|2|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I almost got it .
+%mor:	pron|I-Prs-Nom-S1 adv|almost verb|get-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	do you like that ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I have a good time at school .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art adj|good-Pos-S1 noun|time adp|at noun|school .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CASE 7|2|OBL 8|2|PUNCT
+*CHI:	Mommy (.) will you buy me one of these ?
+%mor:	noun|Mommy aux|will-Fin-S pron|you-Prs-Nom-S2 verb|buy-Inf-S pron|I-Prs-Acc-S1 num|one adp|of pron|this-Dem-P1 ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|IOBJ 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|PUNCT
+*CHI:	what d(o) you mean (.) one day ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|mean-Inf-S num|one noun|day ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NUMMOD 6|4|OBL-TMOD 7|4|PUNCT
+*CHI:	I want it now .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adv|now .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I'm a little bigger .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-Pos-S1 adj|big-Cmp-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|4|DET 4|5|OBL-NPMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	how ?
+%mor:	adv|how ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this for big boys .
+%mor:	pron|this-Dem-S1 adp|for adj|big-Pos-S1 noun|boy-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|AMOD 4|1|NMOD 5|1|PUNCT
+*CHI:	I had a little one .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 det|a-Ind-Art adj|little-Pos-S1 noun|one .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	I'm eleven too .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 num|eleven adv|too .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	Mommy (.) when I get eleven (.) I'm gonna have one .
+%mor:	noun|Mommy adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 num|eleven pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|have-Inf-S num|one .
+%gra:	1|9|VOCATIVE 2|4|ADVMOD 3|4|NSUBJ 4|9|ADVCL 5|4|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|10|ROOT 10|9|OBJ 11|9|PUNCT
+*CHI:	Urs(u)la (.) touch this .
+%mor:	noun|Ursula verb|touch-Fin-Ind-S pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	it's nice (.) it's strong .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|nice-Pos-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|strong-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+*CHI:	guess how old I am ?
+%mor:	verb|guess-Fin-Imp-S adv|how adj|old-Pos-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 ?
+%gra:	1|5|ROOT 2|3|ADVMOD 3|1|CCOMP 4|3|NSUBJ 5|3|COP 6|1|PUNCT
+*CHI:	one (.) two (.) three (.) four (.) five (.) six (.) seven .
+%mor:	num|one num|two num|three num|four num|five num|six num|seven .
+%gra:	1|4|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+*CHI:	playing a banjo is good exercise for your thumb .
+%mor:	verb|play-Ger-S det|a-Ind-Art noun|banjo aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 noun|exercise adp|for pron|your-Prs-Gen-S2 noun|thumb .
+%gra:	1|6|CSUBJ 2|3|DET 3|1|OBJ 4|6|COP 5|6|AMOD 6|9|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|6|PUNCT
+*CHI:	I wish I have a banjo like dis [: this] .
+%mor:	pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|banjo adp|like pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*CHI:	Mommy (.) when I be a big man (.) could I have one of these banjos ?
+%mor:	noun|Mommy adv|when pron|I-Prs-Nom-S1 aux|be-Fin-S det|a-Ind-Art adj|big-Pos-S1 noun|man aux|could-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one adp|of det|this-Def-Dem noun|banjo-Plur ?
+%gra:	1|10|VOCATIVE 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|10|ADVCL 8|10|AUX 9|10|NSUBJ 10|14|ROOT 11|10|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|10|PUNCT
+*CHI:	Mommy (.) what song you want hear ?
+%mor:	intj|mommy det|what-Def-Int noun|song pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 verb|hear-Fin-Ind-Pres-S ?
+%gra:	1|6|ROOT 2|3|DET 3|6|OBJ 4|5|NSUBJ 5|1|PARATAXIS 6|5|CCOMP 7|1|PUNCT
+*CHI:	what song you wanna hear ?
+%mor:	det|what-Def-Int noun|song pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|hear-Inf-S ?
+%gra:	1|2|DET 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	we live both .
+%mor:	pron|we-Prs-Nom-P1 verb|live-Fin-Ind-Pres-P1 det|both-Def-Art .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	what does [?] the man want ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|man verb|want-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	what's dis [: this] little one for ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem adj|little-Pos-S1 noun|one adp|for ?
+%gra:	1|6|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+*CHI:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	I bought my racing car .
+%mor:	pron|I-Prs-Nom-S1 verb|buy-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|racing noun|car .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	yeah (.) my racing car .
+%mor:	intj|yeah pron|my-Prs-Gen-S1 noun|racing noun|car .
+%gra:	1|4|DISCOURSE 2|4|NMOD-POSS 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	my big old racing car .
+%mor:	pron|my-Prs-Gen-S1 adj|big-Pos-S1 adj|old-Pos-S1 noun|racing noun|car .
+%gra:	1|5|NMOD-POSS 2|5|AMOD 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	I always lose things when I move .
+%mor:	pron|I-Prs-Nom-S1 adv|always verb|lose-Fin-Ind-Pres-S1 noun|thing-Plur adv|when pron|I-Prs-Nom-S1 verb|move-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|7|ADVMOD 6|7|NSUBJ 7|3|ADVCL 8|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I told you .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|IOBJ 4|2|PUNCT
+*CHI:	yes (.) I did .
+%mor:	intj|yes pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what's in here ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in adv|here ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	how come it has a big hole in the middle ?
+%mor:	adv|how verb|come-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-Pos-S1 noun|hole adp|in det|the-Def-Art noun|middle ?
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|DET 6|7|AMOD 7|4|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*CHI:	where the sound go in ?
+%mor:	adv|where det|the-Def-Art noun|sound verb|go-Fin-Ind-Pres-P3 adv|in ?
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	then it comes out here .
+%mor:	adv|then pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Pres-S3 adp|out adv|here .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*CHI:	what these little dots for ?
+%mor:	pron|what-Rel-S1 det|this-Def-Dem adj|little-Pos-S1 noun|dot-Plur adp|for ?
+%gra:	1|5|ROOT 2|4|DET 3|4|AMOD 4|1|NSUBJ 5|1|CASE 6|1|PUNCT
+*CHI:	I guess I'm finished with the banjo .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S adp|with det|the-Def-Art noun|banjo .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*CHI:	hey (.) what are those ?
+%mor:	intj|hey pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	cigarettes .
+%mor:	noun|cigarette-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it's clay dough .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|clay-Pos-S1 noun|dough .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	I can open it ?
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|open-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I don't care if I mess up .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|care-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|mess-Fin-Ind-Pres-S1 adp|up .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|7|COMPOUND-PRT 9|4|PUNCT
+*CHI:	it's my [!!] table .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|table .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	but I can't get it out .
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+*CHI:	this one ?
+%mor:	det|this-Def-Dem noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	this one .
+%mor:	det|this-Def-Dem noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	like this .
+%mor:	adp|like pron|this-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	I need it big to go on the floor .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adj|big-Pos-S1 part|to verb|go-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|2|XCOMP 5|6|MARK 6|4|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+*CHI:	I need it big .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adj|big-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	it's gonna be a big one .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|gonna aux|be-Inf-S det|a-Ind-Art adj|big-Pos-S1 noun|one .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|ADVMOD 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	this is me .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	he's taller than you .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|tall-Cmp-S1 adp|than pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	xxx goes down to xxx .
+%mor:	verb|go-Fin-Ind-Pres-S3 adv|down adp|to .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBL 4|1|PUNCT
+*CHI:	look_it all the canes .
+%mor:	verb|lookit-Fin-Imp-S det|all-Def det|the-Def-Art noun|cane-Plur .
+%gra:	1|4|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	hey (.) look_it (.) eight canes walking in the woods .
+%mor:	intj|hey verb|lookit-Fin-Imp-S num|eight noun|cane-Plur verb|walk-Ger-S adp|in det|the-Def-Art noun|wood-Plur .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|4|NUMMOD 4|2|OBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*CHI:	those two are ugly colors .
+%mor:	det|that-Def-Dem num|two aux|be-Fin-Ind-Pres-P3 adj|ugly-Pos-S1 noun|color-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	those eight xxx are ugly .
+%mor:	det|that-Def-Dem num|eight aux|be-Fin-Ind-Pres-P3 adj|ugly-Pos-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	this and this and this .
+%mor:	pron|this-Dem-S1 cconj|and pron|this-Dem-S1 cconj|and pron|this-Dem-S1 .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+*CHI:	those are ugly .
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|ugly-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	don't you think they pretty ?
+%mor:	aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|think-Inf-S pron|they-Prs-Nom-P3 adv|pretty ?
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*CHI:	I don't .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	this last one is pretty .
+%mor:	det|this-Def-Dem adj|last-Pos-S1 noun|one aux|be-Fin-Ind-Pres-S3 adj|pretty-Pos-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I don't like one at all .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S num|one adp|at det|all-Def .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+*CHI:	hey (.) look what happened .
+%mor:	intj|hey verb|look-Fin-Imp-S pron|what-Rel-S1 verb|happen-Fin-Ind-Past-S3 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|3|ACL-RELCL 5|2|PUNCT
+*CHI:	I wan(t) (t)a make a cane .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|make-Inf-S det|a-Ind-Art noun|cane .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	here's the next cane .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|next-Pos-S1 noun|cane .
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	more canes than you .
+%mor:	adj|more-Cmp-S1 noun|cane-Plur adp|than pron|you-Prs-Acc-S2 .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	I'm walking with two canes .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|walk-Part-Pres-S adp|with num|two noun|cane-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|3|PUNCT
+*CHI:	I can walk with that many .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|walk-Inf-S adp|with det|that-Def-Dem adj|many-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	eight in my hand .
+%mor:	num|eight adp|in pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|1|PUNCT
+*CHI:	this is like cheese .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|like noun|cheese .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	now (.) look_it .
+%mor:	adv|now noun|lookit .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	look_it (.) I'm walking with eight .
+%mor:	intj|lookit pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|walk-Part-Pres-S adp|with num|eight .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	you never heard of a man walking with .
+%mor:	pron|you-Prs-Nom-S2 adv|never verb|hear-Fin-Ind-Past-S2 adp|of det|a-Ind-Art noun|man verb|walk-Ger-S adp|with .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|6|ACL 8|7|OBL 9|3|PUNCT
+*CHI:	eight ?
+%mor:	num|eight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	because he falls over one .
+%mor:	sconj|because pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 adp|over num|one .
+%gra:	1|3|MARK 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|OBJ 6|3|PUNCT

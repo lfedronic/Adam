@@ -1,0 +1,300 @@
+*CHI:	dog bit me (.) bit me dog .
+%mor:	noun|dog verb|bite-Fin-S pron|I-Prs-Acc-S1 noun|bit pron|I-Prs-Acc-S1 noun|dog .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NMOD-POSS 4|6|NMOD-NPMOD 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CHI:	don't dog .
+%mor:	aux|do-Fin-Imp-S~part|not verb|dog-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	bitten me dog (.) nineteen twelve .
+%mor:	verb|bite-Fin-Ind-Past-S1 pron|I-Prs-Acc-S1 noun|dog num|nineteen num|twelve .
+%gra:	1|5|ROOT 2|1|IOBJ 3|1|OBJ 4|5|COMPOUND 5|3|APPOS 6|1|PUNCT
+*CHI:	pencil .
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	paper (.) Urler@c .
+%mor:	noun|paper noun|Urler .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	need one ?
+%mor:	verb|need-Fin-Imp-S num|one ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Adam need one .
+%mor:	noun|Adam verb|need-Fin-Ind-Pres-S3 num|one .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy [//] Cromer paper .
+%mor:	noun|Cromer noun|paper .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	piece paper .
+%mor:	noun|piece noun|paper .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	piece .
+%mor:	noun|piece .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh yes .
+%mor:	intj|oh intj|yes .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	d@l (.) nine (.) ten .
+%mor:	noun|would num|nine num|ten .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|DEP 4|1|PUNCT
+*CHI:	d@l (.) nine .
+%mor:	noun|d num|nine .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	li(cense) number .
+%mor:	noun|license noun|number .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	d@l .
+%mor:	noun|d .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	number .
+%mor:	noun|number .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	d@l (.) a (.) number .
+%mor:	verb|would-Fin-Imp-S det|a-Ind-Art noun|number .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	yellow (.) Mommy .
+%mor:	adj|yellow-Pos-S1 noun|mommy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	go dere [: there] ?
+%mor:	verb|go-Fin-Imp-S adv|there ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	choo_choo train .
+%mor:	noun|choochoo noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	come on .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	carry buffalo .
+%mor:	verb|carry-Fin-Imp-S noun|buffalo .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	look (.) Mommy .
+%mor:	verb|look-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	car .
+%mor:	noun|car .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(a)nother one truck .
+%mor:	det|another-Def num|one noun|truck .
+%gra:	1|3|DET 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	(a)nother one .
+%mor:	det|another-Def noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	train .
+%mor:	noun|train .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam drop it train .
+%mor:	noun|Adam verb|drop-Fin-Ind-Pres-S pron|it-Prs-Acc-S3 noun|train .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	drop it choo_choo train .
+%mor:	verb|drop-Inf-S pron|it-Prs-Acc-S3 noun|choochoo noun|train .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	choo_choo [/] choo_choo [/] choo_choo [/] choo_choo [/] choo_choo [/] choo_choo [/] choo_choo [/] choo_choo .
+%mor:	noun|choochoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	train coming .
+%mor:	noun|train verb|come-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	house house house .
+%mor:	noun|house noun|house noun|house .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	house (.) Mommy .
+%mor:	noun|house noun|Mommy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	build house .
+%mor:	verb|build-Fin-Imp-S noun|house .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	build (a)nother one .
+%mor:	verb|build-Fin-Imp-S det|another-Def noun|one .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	build (a)nother house .
+%mor:	verb|build-Fin-Imp-S det|another-Def noun|house .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	street light .
+%mor:	noun|street noun|light .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	looking for ?
+%mor:	verb|look-Ger-S adp|for ?
+%gra:	1|2|ROOT 2|1|OBL 3|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	looking for .
+%mor:	verb|look-Ger-S adp|for .
+%gra:	1|2|ROOT 2|1|OBL 3|1|PUNCT
+*CHI:	looking for (.) Cromer .
+%mor:	verb|look-Ger-S adp|for noun|Cromer .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	find him ?
+%mor:	verb|find-Fin-Imp-S pron|he-Prs-Acc-S3 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	+" didn't ?
+%mor:	verb|do-Fin-Ind-Past-S3~part|not ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	didn't (.) no .
+%mor:	verb|do-Fin-Ind-Past-S3~part|not intj|no .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	little [?] seed .
+%mor:	adj|little-Pos-S1 noun|seed .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	ice_cream .
+%mor:	noun|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eat xxx ice_cream .
+%mor:	verb|eat-Fin-Imp-S noun|icecream .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Adam ice_cream .
+%mor:	noun|Adam noun|icecream .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	drop it (.) Mommy .
+%mor:	verb|drop-Inf-S pron|it-Prs-Acc-S3 noun|Mommy .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	Adam do [?] it [?] .
+%mor:	noun|Adam verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	oh (.) drop it (.) Mommy .
+%mor:	intj|oh verb|drop-Fin-Imp-S pron|it-Prs-Acc-S3 noun|Mommy .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	just like Adam truck .
+%mor:	adv|just adp|like noun|Adam noun|truck .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	truck go ?
+%mor:	noun|truck verb|go-Fin-Imp-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	look like Adam truck .
+%mor:	verb|look-Fin-Imp-S adp|like noun|Adam noun|truck .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|PUNCT
+*CHI:	look like Adam car .
+%mor:	verb|look-Fin-Imp-S adp|like noun|Adam noun|car .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|PUNCT
+*CHI:	too tiny .
+%mor:	adv|too adj|tiny-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	drop it .
+%mor:	verb|drop-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	go get it .
+%mor:	verb|go-Fin-Imp-S verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	drop .
+%mor:	verb|drop-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	window (.) drop .
+%mor:	noun|window noun|drop .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	play peekaboo .
+%mor:	verb|play-Fin-Imp-S noun|peekaboo .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	have play peekaboo .
+%mor:	aux|have-Fin-Imp-S verb|play-Inf-S noun|peekaboo .
+%gra:	1|2|AUX 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	do it (a)gain ?
+%mor:	verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	I jack-(in)-the-box funny .
+%mor:	pron|I-Prs-Nom-S1 verb|jackinthebox-Fin-Ind-Pres-S1 adj|funny-Pos-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	I jack-(in)-the-box [/] jack-(in)-the-box .
+%mor:	pron|I-Prs-Nom-S1 noun|jackinthebox .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	street light fire hydrant .
+%mor:	noun|street noun|light noun|fire noun|hydrant .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	just [?] pretend [?] don't .
+%mor:	adv|just verb|pretend-Fin-Imp-S verb|do-Fin-Imp-S~part|not .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+*CHI:	two t@l [?] Mama doing .
+%mor:	num|two noun|t noun|mama verb|do-Ger-S .
+%gra:	1|2|NUMMOD 2|4|NSUBJ 3|2|FLAT 4|4|ROOT 5|4|PUNCT
+*CHI:	go on track .
+%mor:	verb|go-Fin-Imp-S adp|on noun|track .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	track .
+%mor:	noun|track .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	truck train .
+%mor:	noun|truck noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	go window ?
+%mor:	verb|go-Fin-Imp-S noun|window ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no ?
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	coming train track ?
+%mor:	verb|come-Ger-S noun|train noun|track ?
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	come one .
+%mor:	verb|come-Fin-Imp-S num|one .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	ball in (th)ere ?
+%mor:	noun|ball adp|in adv|there ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	ball .
+%mor:	noun|ball .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put train ball (.) Mommy .
+%mor:	verb|put-Fin-Imp-S noun|train noun|ball noun|Mommy .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	right dere [: there] .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	get it (.) yeah .
+%mor:	verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 intj|yeah .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	Adam get it .
+%mor:	noun|Adam verb|get-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	over dere [: there] .
+%mor:	adv|over adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah (.) Mommy .
+%mor:	intj|yeah noun|Mommy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	ball go ?
+%mor:	noun|ball verb|go-Fin-Imp-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	ball go (.) Mommy ?
+%mor:	noun|ball verb|go-Fin-Imp-S noun|Mommy ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	ups_a_daisy .
+%mor:	noun|upsadaisy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah d(o) you find it .
+%mor:	intj|yeah aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	shame me .
+%mor:	verb|shame-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	shame on you .
+%mor:	verb|shame-Fin-Imp-S adp|on pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	new boot .
+%mor:	adj|new-Pos-S1 noun|boot .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	bite doggie boot .
+%mor:	noun|bite noun|doggie noun|boot .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	yep doggie boot .
+%mor:	intj|yep noun|doggie noun|boot .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Adam doggie (.) shame .
+%mor:	noun|Adam noun|doggie noun|shame .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	shame (.) Mommy .
+%mor:	noun|shame noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT

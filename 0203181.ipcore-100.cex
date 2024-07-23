@@ -1,0 +1,300 @@
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my suitcase .
+%mor:	pron|my-Prs-Gen-S1 noun|suitcase .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	too_man@c suitcase .
+%mor:	noun|tooman noun|suitcase .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	(s)paghetti .
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Monroe suitcase .
+%mor:	noun|Monroe noun|suitcase .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	find dirt [?] .
+%mor:	verb|find-Fin-Imp-S noun|dirt .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	(s)paghetti (.) yeah .
+%mor:	noun|spaghetti intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	yeah ?
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no ?
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam glove .
+%mor:	noun|Adam noun|glove .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	put ball .
+%mor:	verb|put-Fin-Imp-S noun|ball .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	put the ball .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|ball .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	tape (re)corder .
+%mor:	noun|tape noun|recorder .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	put ball over (h)ere .
+%mor:	verb|put-Fin-Imp-S noun|ball adp|over adv|here .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	hit Mommy wall .
+%mor:	verb|hit-Fin-Imp-S noun|Mommy noun|wall .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	hit Mommy rug [?] .
+%mor:	verb|hit-Fin-Imp-S noun|Mommy noun|rug .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	rug .
+%mor:	noun|rug .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where ball ?
+%mor:	adv|where noun|ball ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where ball go ?
+%mor:	adv|where noun|ball verb|go-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	in (th)ere ?
+%mor:	adp|in adv|there ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Adam go get it .
+%mor:	noun|Adam verb|go-Fin-Ind-Pres-S verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*CHI:	get stuck .
+%mor:	verb|get-Fin-Imp-S adj|stuck-Pos-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*CHI:	Adam get stuck .
+%mor:	noun|Adam aux|get-Fin-Ind-Pres-S3 adj|stuck-Pos-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	bye (.) see later (a)gain .
+%mor:	intj|bye verb|see-Fin-Imp-S adv|late adv|again .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	Adam ball .
+%mor:	noun|Adam noun|ball .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	who dat [: that] ?
+%mor:	pron|who-Rel-S1 pron|that-Dem-S1 ?
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	too_too@o train ?
+%mor:	noun|tootoo noun|train ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	train track ?
+%mor:	noun|train noun|track ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	read dat [: that] train track .
+%mor:	verb|read-Fin-Imp-S det|that-Def-Dem noun|train noun|track .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	train train .
+%mor:	noun|train noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Adam sit down book .
+%mor:	noun|Adam verb|sit-Fin-Ind-Pres-S3 adp|down noun|book .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam sit .
+%mor:	noun|Adam verb|sit-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	choo_choo train .
+%mor:	noun|choochoo noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	train track .
+%mor:	noun|train noun|track .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	diesel motor [?] no [?] no [?] moto(r) [?] .
+%mor:	noun|diesel noun|motor det|no-Def-Art det|no-Def noun|motor .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|DET 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	baggage car .
+%mor:	noun|baggage noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	(str)eamline coach .
+%mor:	verb|streamline-Fin-Imp-S noun|coach .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yyy car .
+%mor:	noun|car .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	motor [?] .
+%mor:	noun|motor .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(s)now plow .
+%mor:	noun|snow noun|plow .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx put baby .
+%mor:	verb|put-Fin-Imp-S noun|baby .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	baby .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bed .
+%mor:	noun|bed .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	s(l)eeping [?] car .
+%mor:	verb|sleep-Ger-S noun|car .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	dining (.) where eat .
+%mor:	noun|dining adv|where noun|eat .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|NMOD 4|1|PUNCT
+*CHI:	bo(x) car .
+%mor:	noun|box noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	men .
+%mor:	noun|man-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mai(l) [?] car .
+%mor:	noun|mail noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	look like dat [: that] .
+%mor:	verb|look-Fin-Imp-S adp|like pron|that-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	call too_too@c train .
+%mor:	verb|call-Inf-S noun|tootoo noun|train .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	call (ca)boo(se) .
+%mor:	verb|call-Inf-Imp-S noun|caboose .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	derrick .
+%mor:	noun|derrick .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	crane .
+%mor:	noun|crane .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	work with .
+%mor:	verb|work-Fin-Imp-S adp|with .
+%gra:	1|2|ROOT 2|1|OBL 3|1|PUNCT
+*CHI:	old time [?] train .
+%mor:	adj|old-Pos-S1 noun|time noun|train .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	train right [?] dere [: there] [?] .
+%mor:	verb|train-Inf-Imp-S adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	sweep broom .
+%mor:	verb|sweep-Inf-Imp-S noun|broom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	broom .
+%mor:	noun|broom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	find pocket .
+%mor:	verb|find-Fin-Imp-S noun|pocket .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Adam .
+%mor:	noun|Adam .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fix bike .
+%mor:	verb|fix-Inf-S noun|bike .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	pencil ?
+%mor:	noun|pencil ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	paper ?
+%mor:	noun|paper ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam ?
+%mor:	noun|Adam ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go floor [?] take .
+%mor:	verb|go-Fin-Imp-S noun|floor noun|take .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	take off [?] .
+%mor:	verb|take-Fin-Imp-S adp|off .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	Urler@c take .
+%mor:	noun|Urler verb|take-Fin-Ind-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	take .
+%mor:	verb|take-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	take off take off [?] .
+%mor:	verb|take-Fin-Imp-S adp|off verb|take-Fin-Imp-S adp|off .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|1|PARATAXIS 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	take off ?
+%mor:	verb|take-Fin-Imp-S adp|off ?
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	write Adam take off (.) paper .
+%mor:	verb|write-Fin-Imp-S noun|Adam verb|take-Fin-Imp-S adp|off noun|paper .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|PARATAXIS 4|3|COMPOUND-PRT 5|3|OBJ 6|1|PUNCT
+*CHI:	take off Adam paper .
+%mor:	verb|take-Fin-Imp-S adp|off noun|Adam noun|paper .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	dat [: that] pretty .
+%mor:	pron|that-Dem-S1 adv|pretty .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Adam Adam .
+%mor:	noun|Adam noun|Adam .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	d@l a@l m@l .
+%mor:	noun|d det|a-Ind-Art noun|m .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	m@l .
+%mor:	noun|m .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam m@l .
+%mor:	noun|Adam noun|m .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	write already .
+%mor:	verb|write-Fin-Imp-S adv|already .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	a@l m@l .
+%mor:	det|a-Ind-Art noun|m .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I Adam a@l m@l .
+%mor:	pron|I-Prs-Nom-S1 noun|Adam det|a-Ind-Art noun|m .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|DET 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	write pencil Adam a@l .
+%mor:	verb|write-Fin-Imp-S noun|pencil noun|Adam x|a .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT 5|1|PUNCT
+*CHI:	I [?] Adam a@l .
+%mor:	pron|I-Prs-Nom-S1 noun|Adam det|a-Ind-Art .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*CHI:	Adam sit tow truck (.) okay ?
+%mor:	noun|Adam verb|sit-Fin-Ind-Pres-S3 noun|tow noun|truck adj|okay-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PARATAXIS 6|2|PUNCT
+*CHI:	sorry .
+%mor:	adj|sorry-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hit tow truck knee .
+%mor:	verb|hit-Fin-S noun|tow noun|truck noun|knee .
+%gra:	1|4|ROOT 2|4|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	so sorry tow truck .
+%mor:	adv|so adj|sorry-Pos-S1 noun|tow noun|truck .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|COMPOUND 4|2|PARATAXIS 5|2|PUNCT
+*CHI:	tow truck .
+%mor:	noun|tow noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	find truck .
+%mor:	verb|find-Fin-Imp-S noun|truck .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	locomotive caboose .
+%mor:	noun|locomotive noun|caboose .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	caboose .
+%mor:	noun|caboose .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah (.) locomotive caboose .
+%mor:	intj|yeah noun|locomotive noun|caboose .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Adam locomotive caboose .
+%mor:	noun|Adam noun|locomotive noun|caboose .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Adam locomotive .
+%mor:	noun|Adam noun|locomotive .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	train .
+%mor:	noun|train .
+%gra:	1|1|ROOT 2|1|PUNCT

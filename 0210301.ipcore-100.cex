@@ -1,0 +1,300 @@
+*CHI:	I manage .
+%mor:	pron|I-Prs-Nom-S1 verb|manage-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	look at dat [: that] .
+%mor:	verb|look-Fin-Imp-S adp|at pron|that-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	Tuffy .
+%mor:	noun|Tuffy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it [/] it's funny .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|funny-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	we having coffee ?
+%mor:	pron|we-Prs-Nom-P1 verb|have-Ger-Pres-S noun|coffee ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	how do you know ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	I know .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	kitty .
+%mor:	noun|kitty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bird (.) hopping by (Mi)ssouri .
+%mor:	noun|bird noun|hopping adp|by noun|Missouri .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	hopping by (Mi)ssouri .
+%mor:	verb|hopping-Ger-S adp|by noun|Missouri .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	by (Mi)ssouri .
+%mor:	adp|by noun|Missouri .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	dat [: that] birdie (.) hopping by (Mi)ssouri (.) in bag .
+%mor:	det|that-Def-Dem noun|birdie noun|hopping adp|by noun|Missouri adp|in noun|bag .
+%gra:	1|2|DET 2|3|COMPOUND 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	who brought it ?
+%mor:	pron|who-Rel-S1 verb|bring-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	who brought dis [: this] ?
+%mor:	pron|who-Rel-S1 verb|bring-Fin-Ind-Past-S3 pron|this-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Shadow_Gay did .
+%mor:	noun|ShadowGay aux|do-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Derby .
+%mor:	noun|Derby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wheel [= wheels of toy airplane] turn ?
+%mor:	noun|wheel noun|turn ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	wheels (.) turning .
+%mor:	noun|wheel-Plur verb|turn-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	bag [?] by your (Mi)ssouri .
+%mor:	noun|bag adp|by pron|your-Prs-Gen-S2 noun|Missouri .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|1|PUNCT
+*CHI:	dat [: that] .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it [?] is [?] (.) iss@c fun .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|ISS adj|fun-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	it is (.) see .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|see-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	take me (.) for a ride (.) in it [?] airplane (.) le(t) me get in .
+%mor:	verb|take-Fin-Imp-S pron|I-Prs-Acc-S1 adp|for det|a-Ind-Art noun|ride adp|in pron|it-Prs-Acc-S3 noun|airplane verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|get-Inf-S adv|in .
+%gra:	1|12|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|7|CASE 7|5|NMOD 8|1|OBL-NPMOD 9|1|PARATAXIS 10|9|OBJ 11|9|XCOMP 12|11|ADVMOD 13|1|PUNCT
+*CHI:	d(o) you want me get in [= in toy airplane] ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 verb|get-Inf-S adv|in ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|ADVMOD 7|3|PUNCT
+*CHI:	I can't (.) fit in .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|fit-Inf-S adv|in .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	fit in .
+%mor:	verb|fit-Fin-Imp-S adv|in .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	put in oop@c [?] .
+%mor:	verb|put-Fin-Imp-S adp|in noun|oop .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBJ 4|1|PUNCT
+*CHI:	put it oop@c [?] .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|oop .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	look it dat [: that] bird .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 det|that-Def-Dem noun|bird .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	let he walk .
+%mor:	verb|let-Fin-Imp-S pron|he-Prs-Nom-S3 verb|walk-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	see he walk (.) walk like dat [: that] .
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Nom-S3 verb|walk-Inf-S verb|walk-Inf-S adp|like pron|that-Dem-S1 .
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|XCOMP 5|6|CASE 6|4|OBL 7|1|PUNCT
+*CHI:	turn it .
+%mor:	verb|turn-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	turn him .
+%mor:	verb|turn-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	lucky lucky lucky .
+%mor:	adj|lucky-Pos-S1 adj|lucky-Pos-S1 adj|lucky-Pos-S1 .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	he say birdie .
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 noun|birdie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	he (.) flew (.) on (.) tree .
+%mor:	pron|he-Prs-Nom-S3 verb|fly-Fin-Ind-Past-S3 adp|on noun|tree .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx tail .
+%mor:	noun|tail .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hop hop hop (.) hopping like a bunny .
+%mor:	verb|hop-Fin-Imp-S noun|hop noun|hop verb|hopping-Ger-S adp|like det|a-Ind-Art noun|bunny .
+%gra:	1|7|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*CHI:	hopping hopping hopping hopping hopping hopping .
+%mor:	verb|hopping-Ger-S noun|hopping noun|hopping noun|hopping noun|hopping noun|hopping .
+%gra:	1|6|ROOT 2|1|XCOMP 3|6|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|1|OBJ 7|1|PUNCT
+*CHI:	airplane (.) in my foot .
+%mor:	noun|airplane adp|in pron|my-Prs-Gen-S1 noun|foot .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|1|PUNCT
+*CHI:	in [/] in my shoe .
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|shoe .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	you turn him .
+%mor:	pron|you-Prs-Nom-S2 verb|turn-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	do want he walk ?
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-S pron|he-Prs-Nom-S3 verb|walk-Inf-S ?
+%gra:	1|2|AUX 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	his wing .
+%mor:	pron|his-Prs-Gen-S3 noun|wing .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	he [?] has [?] a wing .
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|wing .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	he fly like dat [: that] .
+%mor:	pron|he-Prs-Nom-S3 verb|fly-Fin-Ind-Pres-S3 adp|like pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	he (.) hanging (.) on (.) his tail .
+%mor:	pron|he-Prs-Nom-S3 verb|hang-Ger-S adp|on pron|his-Prs-Gen-S3 noun|tail .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CHI:	he can't xxx on a (.) airplane walk .
+%mor:	pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not adp|on det|a-Ind-Art noun|airplane noun|walk .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|7|CASE 5|7|DET 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*CHI:	airplane walk .
+%mor:	noun|airplane noun|walk .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	iss@c goes (.) going (.) airport [?] iss@c going with [?] airplane .
+%mor:	noun|ISS verb|go-Fin-Ind-Pres-S3 verb|go-Ger-S noun|airport noun|ISS verb|go-Ger-S adp|with noun|airplane .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|5|COMPOUND 5|3|OBJ 6|3|ADVCL 7|8|CASE 8|6|OBL 9|2|PUNCT
+*CHI:	I (.) come one .
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 num|one .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	just like two airplane (.) just like dat [: that] .
+%mor:	adv|just intj|like num|two noun|airplane adv|just adp|like pron|that-Dem-S1 .
+%gra:	1|4|ADVMOD 2|4|DISCOURSE 3|4|NUMMOD 4|7|ROOT 5|7|ADVMOD 6|7|CASE 7|4|NMOD 8|4|PUNCT
+*CHI:	just like Adam .
+%mor:	adv|just adp|like noun|Adam .
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	two of them .
+%mor:	num|two adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	walk (.) two of them .
+%mor:	verb|walk-Fin-Imp-S num|two adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|1|PUNCT
+*CHI:	dat's [: that's] right (.) how do you know ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|3|PARATAXIS 8|3|PUNCT
+*CHI:	come .
+%mor:	verb|come-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn round .
+%mor:	verb|turn-Inf-S adv|round .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	why put string on it ?
+%mor:	adv|why verb|put-Fin-Ind-Past-S noun|string adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	see (.) turn .
+%mor:	verb|see-Fin-Imp-S noun|turn .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx cowboy hat (.) shoot (.) with me .
+%mor:	noun|cowboy noun|hat noun|shoot adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*CHI:	soxy@c soxer@c .
+%mor:	noun|soxy noun|soxer .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	I say soxy@c soccer .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 noun|soxy noun|soccer .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	yes (.) throw it .
+%mor:	intj|yes verb|throw-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	throw (.) new game (.) too .
+%mor:	verb|throw-Fin-Imp-S adj|new-Pos-S1 noun|game adv|too .
+%gra:	1|4|ROOT 2|3|AMOD 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	oh (.) good word [?] .
+%mor:	intj|oh adj|good-Pos-S1 noun|word .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	do want some pie [?] (.) on [?] your [?] face ?
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-S det|some-Def noun|pie adp|on pron|your-Prs-Gen-S2 noun|face ?
+%gra:	1|2|AUX 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*CHI:	pie .
+%mor:	noun|pie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	get out [/] (.) out my game .
+%mor:	verb|get-Fin-Imp-S adp|out pron|my-Prs-Gen-S1 noun|game .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|NMOD-POSS 4|1|OBJ 5|1|PUNCT
+*CHI:	my game (.) over dere [: there] .
+%mor:	pron|my-Prs-Gen-S1 noun|game adv|over adv|there .
+%gra:	1|2|NMOD-POSS 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	game (.) play (.) with (.) Urs(u)la .
+%mor:	noun|game noun|play adp|with noun|Ursula .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	xxx you funny .
+%mor:	pron|you-Prs-Nom-S2 adj|funny-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	you .
+%mor:	pron|you-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] (.) pumping .
+%mor:	det|that-Def-Dem noun|pump .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	pom@o pom@o pom@o .
+%mor:	noun|pom noun|pom noun|pom .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	dancing [?] hurt [?] you .
+%mor:	noun|dancing verb|hurt-Fin-Past-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	come (.) oh no .
+%mor:	verb|come-Fin-Imp-S intj|oh intj|no .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	sox@c .
+%mor:	noun|Sox-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	get out (.) out dat [: that] soxer@c .
+%mor:	verb|get-Fin-Imp-S adp|out adp|out det|that-Def-Dem noun|soxer .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|1|COMPOUND-PRT 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	soxer@c put pie [?] .
+%mor:	noun|soxer verb|put-Fin-Ind-Past-S3 noun|pie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	saucer (.) soxer@c (.) sock .
+%mor:	noun|saucer noun|soxer noun|sock .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	you say soxer@c ?
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 noun|soxer ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	see boxer outside ?
+%mor:	verb|see-Fin-Imp-S noun|boxer adv|outside ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	wheel .
+%mor:	noun|wheel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	come (.) little fellow .
+%mor:	verb|come-Fin-Imp-S adj|little-Pos-S1 adj|fellow-Pos-S1 .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	we going (.) in (.) wait for xxx .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Ger-S adp|in noun|wait adp|for .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|CASE 4|2|OBL 5|2|OBL 6|2|PUNCT
+*CHI:	let's go .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	wait for grapefruit .
+%mor:	verb|wait-Fin-Imp-S adp|for noun|grapefruit .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	come (.) get out xxx .
+%mor:	verb|come-Fin-Imp-S verb|get-Inf-S adp|out .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|1|PUNCT
+*CHI:	don't you turn my (.) hat round .
+%mor:	aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|turn-Inf-S pron|my-Prs-Gen-S1 noun|hat adv|round .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*CHI:	dat's [: that's] good word .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 noun|word .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	dat [: that] good word too .
+%mor:	det|that-Def-Dem adj|good-Pos-S1 noun|word adv|too .
+%gra:	1|3|DET 2|3|AMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	why laughing at me ?
+%mor:	adv|why verb|laugh-Ger-S adp|at pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	xxx Cromer have (.) eat pie .
+%mor:	noun|Cromer aux|have-Fin-Ind-Pres-P3 verb|eat-Part-Past-S noun|pie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	why not ?
+%mor:	adv|why part|not ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT

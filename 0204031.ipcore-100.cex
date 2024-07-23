@@ -1,0 +1,300 @@
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	choo_choo train .
+%mor:	noun|choochoo noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	dere [: there] water .
+%mor:	pron|there-Prs-Gen-S3 noun|water .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	water right dere [: there] .
+%mor:	noun|water adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	water .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Jack Jill come .
+%mor:	noun|Jack noun|Jill verb|come-Fin-Ind-Pres-S .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|3|ROOT 4|3|PUNCT
+*CHI:	Jack Jill .
+%mor:	noun|Jack noun|Jill .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	take suitcase ?
+%mor:	verb|take-Fin-Imp-S noun|suitcase ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	here (.) Urler@c .
+%mor:	adv|here noun|Urler .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	I Adam don't sit [?] Adam [?] foot [?] .
+%mor:	pron|I-Prs-Nom-S1 noun|Adam aux|do-Fin-S~part|not verb|sit-Fin-Imp-S noun|Adam noun|foot .
+%gra:	1|5|NSUBJ 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+*CHI:	see what bear ?
+%mor:	verb|see-Fin-Imp-S det|what-Def-Int noun|bear ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	see marching bear go ?
+%mor:	verb|see-Fin-Imp-S noun|marching noun|bear noun|go ?
+%gra:	1|4|ROOT 2|4|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	string string .
+%mor:	noun|string noun|string .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	tape .
+%mor:	noun|tape .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that screw .
+%mor:	pron|that-Dem-S1 noun|screw .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Ursula all set ?
+%mor:	noun|Ursula det|all-Def verb|set-Fin-Ind-Pres-S3 ?
+%gra:	1|3|NSUBJ 2|1|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	put top ?
+%mor:	verb|put-Fin-Imp-S noun|top ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	be out a way ?
+%mor:	aux|be-Fin-Imp-S adp|out det|a-Ind-Art noun|way ?
+%gra:	1|2|COP 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	oh no no xxx screw part (ma)chine .
+%mor:	intj|oh intj|no intj|no noun|screw noun|part noun|machine .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|DISCOURSE 4|5|COMPOUND 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*CHI:	dat [: that] a screw .
+%mor:	sconj|that det|a-Ind-Art noun|screw .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	get back !
+%mor:	verb|get-Fin-Imp-S adv|back !
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	hot !
+%mor:	adj|hot-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hot ?
+%mor:	adj|hot-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh no xxx what dat [: that] ?
+%mor:	intj|oh intj|no pron|what-Int-S1 pron|that-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|3|DISCOURSE 3|4|ROOT 4|3|VOCATIVE 5|3|PUNCT
+*CHI:	not tv not tv .
+%mor:	part|not noun|TV part|not noun|TV .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|ADVMOD 4|2|CONJ 5|2|PUNCT
+*CHI:	no find &=0you penny .
+%mor:	det|no-Def verb|find-Fin-Imp-S noun|penny .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	penny (.) yeah .
+%mor:	noun|penny intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	put it pocket .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 noun|pocket .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	other one .
+%mor:	adj|other-Pos-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	touch other one .
+%mor:	verb|touch-Inf-Imp-S adj|other-Pos-S1 noun|one .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	four four four .
+%mor:	num|four num|four num|four .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	one for you .
+%mor:	num|one adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	have a pencil .
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art noun|pencil .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	no no xxx want pencil .
+%mor:	intj|no intj|no verb|want-Fin-Imp-S noun|pencil .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	read story ?
+%mor:	verb|read-Fin-Imp-S noun|story ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	read book ?
+%mor:	verb|read-Fin-Imp-S noun|book ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	read Catherine ?
+%mor:	verb|read-Fin-Imp-S noun|Catherine ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	write Cromer .
+%mor:	verb|write-Fin-Imp-S noun|Cromer .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	write Urler@c .
+%mor:	verb|write-Fin-Imp-S noun|Urler .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	write Adam .
+%mor:	verb|write-Fin-Imp-S noun|Adam .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	write Perro .
+%mor:	verb|write-Fin-Imp-S noun|Perro .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you right hand .
+%mor:	pron|you-Prs-Acc-S2 adj|right-Pos-S1 noun|hand .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	dat [: that] very pretty ?
+%mor:	pron|that-Dem-S1 adv|very adj|pretty-Pos-S1 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	very pretty .
+%mor:	adv|very adj|pretty-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	red (.) yellow .
+%mor:	adj|red-Pos-S1 noun|yellow .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yellow yellow yellow .
+%mor:	adj|yellow-Pos-S1 adj|yellow-Pos-S1 noun|yellow .
+%gra:	1|3|AMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	screwdriver .
+%mor:	noun|screwdriver .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam right dere [: there] .
+%mor:	noun|Adam adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	no over .
+%mor:	intj|no adv|over .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	tape (re)corder hurt .
+%mor:	noun|tape noun|recorder verb|hurt-Part-Past-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	screwdriver hurt .
+%mor:	noun|screwdriver verb|hurt-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	screwdriver screwdriver screwdriver .
+%mor:	noun|screwdriver noun|screwdriver noun|screwdriver .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	fix screwdriver .
+%mor:	verb|fix-Inf-S noun|screwdriver .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	screw (.) firetruck ?
+%mor:	verb|screw-Inf-Imp-S noun|firetruck ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	screw .
+%mor:	verb|screw-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put this one (.) Mommy .
+%mor:	verb|put-Fin-Imp-S det|this-Def-Dem noun|one noun|Mommy .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|OBJ 5|1|PUNCT
+*CHI:	more ?
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	train right dere [: there] .
+%mor:	verb|train-Inf-Imp-S adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	color ?
+%mor:	noun|color ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red red .
+%mor:	adj|red-Pos-S1 adj|red-Pos-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	white .
+%mor:	adj|white-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red right dere [: there] .
+%mor:	adj|red-Pos-S1 adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hurt (.) truck .
+%mor:	verb|hurt-Fin-S noun|truck .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	car broken .
+%mor:	noun|car verb|break-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	truck broken (.) Mommy .
+%mor:	noun|truck verb|break-Part-Past-S noun|Mommy .
+%gra:	1|2|OBL-NPMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I put truck .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 noun|truck .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	get truck .
+%mor:	verb|get-Fin-Imp-S noun|truck .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	my busy bulldozer (.) truck .
+%mor:	pron|my-Prs-Gen-S1 adj|busy-Pos-S1 noun|bulldozer noun|truck .
+%gra:	1|4|NMOD-POSS 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	busy bulldozer .
+%mor:	adj|busy-Pos-S1 noun|bulldozer .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	truck (.) look .
+%mor:	noun|truck noun|look .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	oh no busy bulldozer .
+%mor:	intj|oh det|no-Def adj|busy-Pos-S1 noun|bulldozer .
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	dat [: that] busy bulldozer (.) truck .
+%mor:	det|that-Def-Dem adj|busy-Pos-S1 noun|bulldozer noun|truck .
+%gra:	1|4|DET 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	busy bulldozer truck .
+%mor:	adj|busy-Pos-S1 noun|bulldozer noun|truck .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	two busy bulldozer .
+%mor:	num|two adj|busy-Pos-S1 noun|bulldozer .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	Urler@c right dere [: there] yellow .
+%mor:	noun|Urler adv|right adv|there adj|yellow-Pos-S1 .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	Urler@c right dere [: there] .
+%mor:	noun|Urler adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	put (to)gether (a)gain .
+%mor:	verb|put-Fin-Imp-S adv|together adv|again .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	put (to)gether (.) Mommy .
+%mor:	verb|put-Fin-Imp-S adv|together noun|Mommy .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	what happen Mommy ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-S noun|Mommy ?
+%gra:	1|3|ROOT 2|1|ACL-RELCL 3|2|OBJ 4|1|PUNCT
+*CHI:	see other one put (to)gether .
+%mor:	verb|see-Fin-Imp-S adj|other-Pos-S1 num|one verb|put-Part-Past-S adv|together .
+%gra:	1|5|ROOT 2|3|AMOD 3|1|OBJ 4|3|ACL 5|4|ADVMOD 6|1|PUNCT
+*CHI:	see other one .
+%mor:	verb|see-Fin-Imp-S adj|other-Pos-S1 noun|one .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	look like one .
+%mor:	verb|look-Fin-Imp-S adp|like num|one .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	toy train .
+%mor:	noun|toy noun|train .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	horn ?
+%mor:	noun|horn ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam horn .
+%mor:	noun|Adam noun|horn .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	paper .
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red .
+%mor:	adj|red-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	take paper off .
+%mor:	verb|take-Fin-Imp-S noun|paper adv|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	oh no (.) Chatter .
+%mor:	intj|oh det|no-Def noun|chatter .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	Chatter (.) what matter you ?
+%mor:	noun|chatter pron|what-Int-S1 verb|matter-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 ?
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|1|PUNCT
+*CHI:	Adam [?] sleeping .
+%mor:	noun|Adam noun|sleeping .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	doggie sleeping .
+%mor:	noun|doggie noun|sleeping .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	good morning .
+%mor:	adj|good-Pos-S1 noun|morning .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	whistle .
+%mor:	noun|whistle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby (.) Mommy (.) look .
+%mor:	noun|baby noun|Mommy verb|look-Fin-Ind-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT

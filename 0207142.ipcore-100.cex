@@ -1,0 +1,300 @@
+*CHI:	already brought a supper .
+%mor:	adv|already verb|bring-Fin-Ind-Past-S1 det|a-Ind-Art noun|supper .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	you two be quiet .
+%mor:	pron|you-Prs-Nom-S2 num|two aux|be-Fin-Ind-S adj|quiet-Pos-S1 .
+%gra:	1|4|NSUBJ 2|1|DEP 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	mac(a)roni .
+%mor:	noun|macaroni .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	let me (.) eat de [: the] macaroni .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|eat-Inf-S det|the-Def-Art noun|macaroni .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	eat dat [: that] .
+%mor:	verb|eat-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bake it self .
+%mor:	verb|bake-Fin-Imp-S pron|it-Prs-Acc-S3 noun|self .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	like a piece meat .
+%mor:	adp|like det|a-Ind-Art noun|piece noun|meat .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	like a piece of meat .
+%mor:	adp|like det|a-Ind-Art noun|piece adp|of noun|meat .
+%gra:	1|3|CASE 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*CHI:	your hat .
+%mor:	pron|your-Prs-Gen-S2 noun|hat .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	where my hat ?
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|hat ?
+%gra:	1|3|ADVMOD 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	maybe .
+%mor:	adv|maybe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wan(t) (t)a meat ?
+%mor:	verb|want-Fin-Imp-S adp|of noun|meat ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx (a)gain ?
+%mor:	adv|again ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want meat (a)gain ?
+%mor:	verb|want-Fin-Imp-S noun|meat adv|again ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	meat .
+%mor:	noun|meat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	big meat .
+%mor:	adj|big-Pos-S1 noun|meat .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	want hat .
+%mor:	verb|want-Fin-Imp-S noun|hat .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	want hat ?
+%mor:	verb|want-Fin-Imp-S noun|hat ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	want a hat ?
+%mor:	verb|want-Fin-Imp-S det|a-Ind-Art noun|hat ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	cowboy funny .
+%mor:	noun|cowboy adj|funny-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	beep beep .
+%mor:	noun|beep noun|beep .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	move next a [?] doggie .
+%mor:	verb|move-Fin-Imp-S adv|next det|a-Ind-Art noun|doggie .
+%gra:	1|4|ROOT 2|4|ADVMOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	next Adam [?] taperecorder .
+%mor:	adj|next-Pos-S1 noun|Adam noun|taperecorder .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	want meat ?
+%mor:	verb|want-Fin-Imp-S noun|meat ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx eat it .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	a knife .
+%mor:	det|a-Ind-Art noun|knife .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx get it my boots [?] .
+%mor:	verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 pron|my-Prs-Gen-S1 noun|boot-Plur .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|NMOD-POSS 4|1|XCOMP 5|1|PUNCT
+*CHI:	fork .
+%mor:	verb|fork-Inf-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where mine hat ?
+%mor:	adv|where pron|mine-Prs-S1 noun|hat ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	it's [?] a [?] meat .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|meat .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put dat [: that] down here .
+%mor:	verb|put-Fin-Imp-S pron|that-Dem-S1 adp|down adv|here .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|ADVMOD 5|1|PUNCT
+*CHI:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	let the [?] cowboy eat .
+%mor:	verb|let-Fin-Imp-S det|the-Def-Art noun|cowboy verb|eat-Inf-S .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|XCOMP 5|1|PUNCT
+*CHI:	let me eat .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|eat-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	let me bite mine pant .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|bite-Inf-S pron|mine-Prs-S1 noun|pant .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|1|PUNCT
+*CHI:	doggie did .
+%mor:	noun|doggie aux|do-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	big doggie .
+%mor:	adj|big-Pos-S1 noun|doggie .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx can't eat (.) cowboy (.) fork .
+%mor:	aux|can-Fin-S~part|not verb|eat-Inf-S noun|cowboy noun|fork .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*CHI:	Mommy all_gone (.) Mommy ?
+%mor:	noun|Mommy noun|allgone noun|Mommy ?
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*CHI:	tomorrow go fishing .
+%mor:	noun|tomorrow verb|go-Fin-Imp-S noun|fishing .
+%gra:	1|2|OBL-TMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	(to)morrow fish bite me and cowboy .
+%mor:	noun|tomorrow noun|fish-Plur verb|bite-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 cconj|and noun|cowboy .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CC 6|4|CONJ 7|3|PUNCT
+*CHI:	bite me and big doggie bite me .
+%mor:	verb|bite-Inf-S pron|I-Prs-Acc-S1 cconj|and adj|big-Pos-S1 noun|doggie verb|bite-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|7|ROOT 2|1|OBJ 3|6|CC 4|5|AMOD 5|6|NSUBJ 6|1|CONJ 7|6|OBJ 8|1|PUNCT
+*CHI:	yeah (.) lots bite (.) yeah .
+%mor:	intj|yeah noun|lot-Plur noun|bite intj|yeah .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	let me put a hat on ?
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|put-Inf-S det|a-Ind-Art noun|hat adp|on ?
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|1|PUNCT
+*CHI:	just like Rin_tin_tin .
+%mor:	adv|just adp|like noun|Rintintin .
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	see ?
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I drop a hat (.) Mommy .
+%mor:	pron|I-Prs-Nom-S1 verb|drop-Fin-Ind-Pres-S1 det|a-Ind-Art noun|hat noun|Mommy .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	big doggie bite Ursla (.) Cromer .
+%mor:	adj|big-Pos-S1 noun|doggie noun|bite noun|Ursla noun|Cromer .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|5|ROOT 4|3|APPOS 5|4|FLAT 6|3|PUNCT
+*CHI:	turn dis [: this] way .
+%mor:	verb|turn-Fin-Imp-S det|this-Def-Dem noun|way .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	pick Urs(u)la suitcase up ?
+%mor:	verb|pick-Inf-Imp-S noun|Ursula noun|suitcase adv|up ?
+%gra:	1|4|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	you welcome .
+%mor:	pron|you-Prs-Nom-S2 verb|welcome-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	cowboy lost a hat (.) Mommy .
+%mor:	noun|cowboy verb|lose-Fin-Ind-Past-S3 det|a-Ind-Art noun|hat noun|Mommy .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	cowboy lost hat .
+%mor:	noun|cowboy verb|lose-Fin-Ind-Past-S3 noun|hat .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	wear bandana .
+%mor:	verb|wear-Fin-Imp-S noun|bandana .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bandana .
+%mor:	noun|bandana .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cowboy have some .
+%mor:	noun|cowboy verb|have-Fin-Ind-Pres-P3 det|some-Def .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Rin_tin_tin have some .
+%mor:	noun|Rintintin verb|have-Fin-Ind-Pres-P3 det|some-Def .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	cowboy like a boot (.) Mommy .
+%mor:	noun|cowboy adp|like det|a-Ind-Art noun|boot noun|Mommy .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|1|PUNCT
+*CHI:	I have a boot on (.) Mommy .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boot adp|on noun|Mommy .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*CHI:	I have a boot on .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boot adv|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	yeah (.) I have a hat on .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|hat adv|on .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	and boot on .
+%mor:	cconj|and verb|boot-Fin-Imp-S adv|on .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	cowboy miss it my hat .
+%mor:	noun|cowboy verb|miss-Fin-Imp-S pron|it-Prs-Acc-S3 pron|my-Prs-Gen-S1 noun|hat .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+*CHI:	see it ?
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	hat on .
+%mor:	noun|hat adv|on .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	boots .
+%mor:	noun|boot-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	some boots .
+%mor:	det|some-Def noun|boot-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dere [: there] some boots .
+%mor:	pron|there-Int-S1 det|some-Def noun|boot-Plur .
+%gra:	1|3|EXPL 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	got cowboy shirt .
+%mor:	verb|get-Fin-Ind-Past-S1 noun|cowboy noun|shirt .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	cowboy boy shirt (.) okay ?
+%mor:	noun|cowboy noun|boy noun|shirt adj|okay-Pos-S1 ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*CHI:	&-um (.) hat .
+%mor:	noun|hat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-um (.) Ursula hat .
+%mor:	noun|Ursula noun|hat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	&-um (.) Cromer hat .
+%mor:	noun|Cromer noun|hat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	&-um cowboy hat too .
+%mor:	noun|cowboy noun|hat adv|too .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	and hat mitten hat .
+%mor:	cconj|and noun|hat noun|mitten noun|hat .
+%gra:	1|4|CC 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	hat all_gone .
+%mor:	noun|hat noun|allgone .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	boot all_gone (.) San(t)a [?] took em .
+%mor:	noun|boot noun|allgone noun|Santa verb|take-Fin-Ind-Past-S3 pron|they-Prs-Acc-P3 .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	Sam [?] did .
+%mor:	noun|Sam aux|do-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Santa Claus you .
+%mor:	noun|Santa noun|Claus pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*CHI:	put a on Santa Claus .
+%mor:	verb|put-Fin-Imp-S det|a-Ind-Art adp|on noun|Santa noun|Claus .
+%gra:	1|5|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|4|FLAT 6|1|PUNCT
+*CHI:	cowboy xxx .
+%mor:	noun|cowboy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	on Cromer bandana xxx .
+%mor:	adp|on noun|Cromer noun|bandana .
+%gra:	1|3|CASE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	write a spoons .
+%mor:	verb|write-Fin-Imp-S det|a-Ind-Art noun|spoon-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	wan(t) (t)a [?] tomato ?
+%mor:	verb|want-Fin-Imp-S adp|of noun|tomato ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBJ 4|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(to)mato .
+%mor:	noun|tomato .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	see (.) Mommy ?
+%mor:	verb|see-Fin-Imp-S noun|Mommy ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	my writing [?] I writing .
+%mor:	pron|my-Prs-Gen-S1 noun|writing pron|I-Prs-Nom-S1 verb|write-Ger-Pres-S .
+%gra:	1|2|NMOD-POSS 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+*CHI:	no gonna fall (.) Cromer boot off .
+%mor:	det|no-Def adv|gonna verb|fall-Inf-S noun|Cromer noun|boot adv|off .
+%gra:	1|3|DET 2|3|ADVMOD 3|6|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	Cromer boot off .
+%mor:	noun|Cromer noun|boot adv|off .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	right dere [: there] ?
+%mor:	adv|right adv|there ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	beetle .
+%mor:	noun|beetle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where mine tomato ?
+%mor:	adv|where pron|mine-Prs-S1 noun|tomato ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	see cowboy (.) keep hat on .
+%mor:	verb|see-Fin-Imp-S noun|cowboy verb|keep-Inf-S noun|hat adv|on .
+%gra:	1|5|ROOT 2|3|COMPOUND 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+*CHI:	I will .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	say (.) cowboy .
+%mor:	verb|say-Fin-Imp-S noun|cowboy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	hey (.) cowboy (.) you just [?] a [?] minute [?] .
+%mor:	intj|hey noun|cowboy pron|you-Prs-Acc-S2 adv|just det|a-Ind-Art noun|minute .
+%gra:	1|6|ROOT 2|3|COMPOUND 3|1|VOCATIVE 4|6|ADVMOD 5|6|DET 6|2|PARATAXIS 7|1|PUNCT
+*CHI:	just a minute Santa Claus .
+%mor:	adv|just det|a-Ind-Art noun|minute noun|Santa noun|Claus .
+%gra:	1|3|ADVMOD 2|3|DET 3|5|ROOT 4|3|APPOS 5|4|FLAT 6|3|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	now I'm ready to draw .
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|ready-Pos-S1 part|to verb|draw-Inf-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	oh (.) so I'm a big boy .
+%mor:	intj|oh adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|big-Pos-S1 noun|boy .
+%gra:	1|7|DISCOURSE 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	dat [: that] makes some [?] straight long line .
+%mor:	pron|that-Dem-S1 verb|make-Fin-Ind-Pres-S3 det|some-Def adj|straight-Pos-S1 adj|long-Pos-S1 noun|line .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|AMOD 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+*CHI:	I'm gonna turn around de [: the] page (.) and look .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|turn-Inf-S adp|around det|the-Def-Art noun|page cconj|and verb|look-Fin-Ind-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|4|PUNCT
+*CHI:	see all dese [: these] weeds .
+%mor:	verb|see-Fin-Imp-S det|all-Def det|this-Def-Dem noun|weed-Plur .
+%gra:	1|4|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	you know what dis [: this] [?] weeds mean ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 det|this-Def-Dem noun|weed-Plur verb|mean-Fin-Ind-Pres-P3 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|DET 5|6|NSUBJ 6|3|ACL-RELCL 7|2|PUNCT
+*CHI:	weeds .
+%mor:	noun|weed-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat's [: that's] what I see on Captain Bob .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|on noun|Captain noun|Bob .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|7|FLAT 9|3|PUNCT
+*CHI:	look (.) Mommy .
+%mor:	verb|look-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	now watch dis [: this] .
+%mor:	adv|now verb|watch-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I can use very both at the same time .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|use-Inf-S adv|very det|both-Def adp|at det|the-Def-Art adj|same-Pos-S1 noun|time .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|ADVMOD 5|3|OBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*CHI:	hey (.) look .
+%mor:	intj|hey verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	see (.) look .
+%mor:	verb|see-Fin-Imp-S noun|look .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	very both at [?] a time .
+%mor:	adv|very det|both-Def adp|at det|a-Ind-Art noun|time .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*CHI:	color one .
+%mor:	noun|color num|one .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	dis [: this] is a rainbow .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|rainbow .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	whose seeds are dose [: those] ?
+%mor:	pron|whose-Rel-S1 noun|seed-Plur aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 ?
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	I can use four (.) five (.) six (.) seven (.) the [//] de [: the] one (.) it's good .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|use-Inf-S num|four num|five num|six num|seven det|the-Def-Art noun|one pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|3|OBJ 8|9|DET 9|3|OBJ 10|12|NSUBJ 11|12|COP 12|9|ACL-RELCL 13|3|PUNCT
+*CHI:	de [: the] seven (.) de [: the] eight (.) nine (.) ten (.) draw .
+%mor:	det|the-Def-Art num|seven det|the-Def-Art num|eight num|nine num|ten noun|draw .
+%gra:	1|2|DET 2|7|ROOT 3|7|DET 4|5|COMPOUND 5|6|COMPOUND 6|7|NUMMOD 7|2|NMOD-NPMOD 8|2|PUNCT
+*CHI:	look at dese [: these] .
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-P1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	pretty colors .
+%mor:	adj|pretty-Pos-S1 noun|color-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	I think I use six (.) seven (.) eight .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 num|six num|seven num|eight .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|7|NUMMOD 7|4|OBJ 8|2|PUNCT
+*CHI:	I think I use dis [: this] .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	dat's [: that's] a bird .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bird .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	don't let Paul pick dose [: those] up .
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S noun|Paul verb|pick-Inf-S pron|that-Dem-P1 adv|up .
+%gra:	1|3|AUX 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a@l .
+%mor:	det|a-Ind-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Adam .
+%mor:	noun|Adam .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	watch dis [: this] .
+%mor:	verb|watch-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat's [: that's] a a@l .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|a .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	Smith .
+%mor:	noun|Smith .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and here's a boat .
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boat .
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*CHI:	and de [: the] boat were caught in de [: the] weeds (.) different kind o(f) boats .
+%mor:	cconj|and det|the-Def-Art noun|boat aux|be-Fin-Ind-Past-S3 verb|catch-Part-Past-S adp|in det|the-Def-Art noun|weed-Plur adj|different-Pos-S1 noun|kind adp|of noun|boat-Plur .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|12|ROOT 6|10|CASE 7|8|DET 8|5|OBL 9|10|AMOD 10|5|OBL 11|12|CASE 12|10|NMOD 13|5|PUNCT
+*CHI:	were [?] caught in de [: the] weeds .
+%mor:	aux|be-Fin-Ind-Past-P3 verb|catch-Part-Past-S adp|in det|the-Def-Art noun|weed-Plur .
+%gra:	1|2|AUX-PASS 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	somebody have water splashing (.) all colored up .
+%mor:	pron|somebody-Ind-S1 verb|have-Fin-Ind-Pres-S3 noun|water verb|splash-Ger-S det|all-Def verb|color-Part-Past-S adv|up .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|XCOMP 5|6|ADVMOD 6|4|XCOMP 7|6|ADVMOD 8|2|PUNCT
+*CHI:	sometimes I get scared of dat [: that] .
+%mor:	adv|sometimes pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adj|scared-Pos-S1 adp|of pron|that-Dem-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+*CHI:	I'm drawing de [: the] weeds .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|draw-Part-Pres-S det|the-Def-Art noun|weed-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	a mechanical writer .
+%mor:	det|a-Ind-Art adj|mechanical-Pos-S1 noun|writer .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah (.) on Captain Bob .
+%mor:	intj|yeah adp|on noun|Captain noun|Bob .
+%gra:	1|3|DISCOURSE 2|3|CASE 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*CHI:	see (.) it's draw different things .
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3~aux|be-Fin-Ind-Pres-S3 verb|draw-Inf-S adj|different-Pos-S1 noun|thing-Plur .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|6|AMOD 6|4|OBJ 7|1|PUNCT
+*CHI:	now I'm finished .
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	I made a mistake .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Fin-Ind-Past-S1 det|a-Ind-Art noun|mistake .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I made two mistakes .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Fin-Ind-Past-S1 num|two noun|mistake-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	I'm gonna make another one now .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|make-Inf-S det|another-Def noun|one adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*CHI:	see dat's [: that's] de [: the] red one .
+%mor:	verb|see-Fin-Imp-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|red-Pos-S1 noun|one .
+%gra:	1|6|ROOT 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|1|CCOMP 7|1|PUNCT
+*CHI:	dis [: this] has de [: the] same color .
+%mor:	pron|this-Dem-S1 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-Pos-S1 noun|color .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	dat's [: that's] brown (.) blue .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|brown-Pos-S1 adj|blue-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	I'm gonna mix it .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|mix-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	now yellow .
+%mor:	adv|now adj|yellow-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	dis [: this] is blue .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|blue-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	see blue ?
+%mor:	verb|see-Fin-Imp-S adj|blue-Pos-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no (.) one is blue (.) two is blue .
+%mor:	det|no-Def pron|one-Neg-S1 aux|be-Fin-Ind-Pres-S3 adj|blue-Pos-S1 num|two aux|be-Fin-Ind-Pres-S3 adj|blue-Pos-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|NSUBJ 6|7|COP 7|4|PARATAXIS 8|4|PUNCT
+*CHI:	hey (.) I'm gonna finish .
+%mor:	intj|hey pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|finish-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	I'm finished now .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S adv|now .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	dat's [: that's] what I see on television .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|on noun|television .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|3|PUNCT
+*CHI:	I know I see dat [: that] .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	hey (.) Mommy !
+%mor:	intj|hey noun|Mommy !
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	you color it .
+%mor:	pron|you-Prs-Nom-S2 verb|color-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	what's dat [: that] have in de [: the] hand ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Rel-S1 verb|have-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|hand ?
+%gra:	1|7|ROOT 2|1|COP 3|4|NSUBJ 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*CHI:	what's dat [: that] have in his mouth ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Rel-S1 verb|have-Fin-Ind-Pres-P3 adp|in pron|his-Prs-Gen-S3 noun|mouth ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|1|ACL-RELCL 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|2|PUNCT
+*CHI:	hey (.) Mommy (.) dis [: this] is de [: the] cat cage .
+%mor:	intj|hey noun|Mommy pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|cat noun|cage .
+%gra:	1|7|DISCOURSE 2|7|VOCATIVE 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+*CHI:	I like dis [: this] cat .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|this-Def-Dem noun|cat .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	hey (.) Mommy (.) I wish we could buy <a cat> [/] (.) a cat car (.) for Daddy's work [?] and Daddy's gonna be so excited .
+%mor:	intj|hey noun|Mommy pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 aux|could-Fin-S verb|buy-Inf-S det|a-Ind-Art noun|cat noun|car adp|for noun|Daddy~part|s noun|work cconj|and noun|Daddy~aux|be-Fin-Ind-Pres-S3 adv|gonna aux|be-Inf-S adv|so adj|excited-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|VOCATIVE 3|4|NSUBJ 4|21|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|14|CASE 12|14|NMOD-POSS 13|12|CASE 14|7|OBL 15|21|CC 16|21|NSUBJ 17|21|AUX 18|21|ADVMOD 19|21|COP 20|21|ADVMOD 21|4|CONJ 22|4|PUNCT
+*CHI:	Daddy's gonna be so excited .
+%mor:	noun|Daddy~aux|be-Fin-Ind-Pres-S3 adv|gonna aux|be-Inf-S adv|so adj|excited-Pos-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	I hope my cat friends are alright .
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|cat noun|friend-Plur aux|be-Fin-Ind-Pres-P3 adj|alright-Pos-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|2|CCOMP 8|2|PUNCT
+*CHI:	well (.) can I use dese [: these] ?
+%mor:	intj|well aux|can-Fin-S pron|I-Prs-Nom-S1 verb|use-Inf-S pron|this-Dem-P1 ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I can't open it .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|open-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I can't open dis [: this] .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|open-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I already have dis [: this] .
+%mor:	pron|I-Prs-Nom-S1 adv|already verb|have-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I [?] guess [?] it is something .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*CHI:	yes (.) I can .
+%mor:	intj|yes pron|I-Prs-Nom-S1 aux|can-Fin-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	I can color round his eyes .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|color-Inf-S adp|round pron|his-Prs-Gen-S3 noun|eye-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	Mommy (.) was somebody playing with dat [: that] ?
+%mor:	noun|Mommy aux|be-Fin-Ind-Past-S3 pron|somebody-Ind-S1 verb|play-Ger-S adp|with pron|that-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|3|ACL 5|6|CASE 6|4|OBL 7|3|PUNCT
+*CHI:	with dat [: that] puzzle dere [: there] .
+%mor:	adp|with det|that-Def-Dem noun|puzzle adv|there .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	dese [: these] are my friends .
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 pron|my-Prs-Gen-S1 noun|friend-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	I hope dey [: they] alright .
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 intj|alright .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|CCOMP 5|2|PUNCT
+*CHI:	hey (.) dey [: they] gonna have a picnic .
+%mor:	intj|hey pron|they-Prs-Nom-P3 adv|gonna verb|have-Fin-Ind-P3 det|a-Ind-Art noun|picnic .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	gon(na) to catch fish .
+%mor:	adj|gonna-Pos-S1 part|to verb|catch-Inf-S noun|fish .
+%gra:	1|4|ROOT 2|3|MARK 3|1|ADVCL 4|3|OBJ 5|1|PUNCT
+*CHI:	yeah (.) I have some scissors .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|some-Def noun|scissors-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	I'm gonna ask my Mother [?] .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|ask-Inf-S pron|my-Prs-Gen-S1 noun|mother .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	dese [: these] are elephants .
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|elephant-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	dere [: there's] a elephant (.) and birds (.) and a airplane write [?] in [?] de [: the] [?] air [?] .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|elephant cconj|and noun|bird-Plur cconj|and det|a-Ind-Art noun|airplane verb|write-Inf-S adp|in det|the-Def-Art noun|air .
+%gra:	1|2|EXPL 2|13|ROOT 3|4|DET 4|2|NSUBJ 5|6|CC 6|4|CONJ 7|9|CC 8|9|DET 9|4|CONJ 10|4|ACL 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+*CHI:	<look at> [//] (.) what are dey [: they] building ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|build-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	here's de [: the] cars .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|car-Plur .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	trains (.) wagons (.) cars .
+%mor:	noun|train-Plur noun|wagon-Plur noun|car-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	I see him .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I don't see him .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	already where ?
+%mor:	adv|already adv|where ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	of de [: the] fair .
+%mor:	adp|of det|the-Def-Art adj|fair-Pos-S1 .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	<I know> [/] (.) <I know> [/] (.) I know already .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adv|already .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	dey [: they] are [?] kangaroos .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 noun|kangaroos-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	where dey [: they] going ?
+%mor:	adv|where pron|they-Prs-Nom-P3 verb|go-Ger-S ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	the bird house .
+%mor:	det|the-Def-Art noun|bird noun|house .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah (.) now where dey [: they] going now ?
+%mor:	intj|yeah adv|now adv|where pron|they-Prs-Nom-P3 verb|go-Ger-S adv|now ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	I dunno [: don't know] .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	+, giraffe .
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and the house of the camels .
+%mor:	cconj|and det|the-Def-Art noun|house adp|of det|the-Def-Art noun|camel-Plur .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT

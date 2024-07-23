@@ -1,0 +1,300 @@
+*CHI:	this is heavy .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|heavy-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	saggy baggy doesn't eat a [?] all up .
+%mor:	adj|saggy-Pos-S1 noun|baggy aux|do-Fin-Ind-Pres-S3~part|not verb|eat-Inf-S det|a-Ind-Art det|all-Def adv|up .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+*CHI:	oh no .
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	you going faster [?] ?
+%mor:	pron|you-Prs-Nom-S2 verb|go-Ger-S adv|fast ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	washer [?] .
+%mor:	noun|washer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	going go (a)round little ?
+%mor:	verb|go-Ger-S verb|go-Inf-S adv|around adj|little-Pos-S1 ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|CASE 4|2|ADVMOD 5|1|PUNCT
+*CHI:	<what is> [//] what de [: the] in (th)ere ?
+%mor:	pron|what-Int-S1 det|the-Def-Art adp|in adv|there ?
+%gra:	1|4|ROOT 2|1|NSUBJ 3|4|CASE 4|1|NMOD 5|1|PUNCT
+*CHI:	pocket ?
+%mor:	noun|pocket ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] one ?
+%mor:	det|this-Def-Dem noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	booking@c .
+%mor:	noun|booking .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	booking@c booking@c booking@c booking@c .
+%mor:	noun|booking noun|booking noun|booking noun|booking .
+%gra:	1|4|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	booking@c booking@c .
+%mor:	noun|booking noun|booking .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	tease [?] (.) book (.) tease [?] .
+%mor:	verb|tease-Fin-Imp-S noun|book noun|tease .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	tease [?] .
+%mor:	verb|tease-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tease tease .
+%mor:	verb|tease-Fin-Imp-S noun|tease .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	teasing teasing teasing .
+%mor:	verb|tease-Ger-S noun|teasing noun|teasing .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	teasing [?] .
+%mor:	verb|tease-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tease a (.) Cromer .
+%mor:	verb|tease-Fin-Imp-S det|a-Ind-Art noun|Cromer .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	what this is (.) car .
+%mor:	pron|what-Rel-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|car .
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	pin .
+%mor:	noun|pin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah (.) Mommy (.) pin .
+%mor:	intj|yeah noun|Mommy noun|pin .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	car .
+%mor:	noun|car .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red car .
+%mor:	adj|red-Pos-S1 noun|car .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yellow car .
+%mor:	adj|yellow-Pos-S1 noun|car .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx watch .
+%mor:	verb|watch-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where horses go ?
+%mor:	adv|where noun|horse-Plur verb|go-Fin-Ind-Pres-P3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	where horses ?
+%mor:	adv|where noun|horse-Plur ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	horse (.) go yes Mommy .
+%mor:	noun|horse verb|go-Fin-Imp-S intj|yes noun|Mommy .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DISCOURSE 4|2|PARATAXIS 5|2|PUNCT
+*CHI:	did he ?
+%mor:	aux|do-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	there he is (.) Mommy .
+%mor:	adv|there pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 noun|Mommy .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	corral corral .
+%mor:	noun|corral noun|corral .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	baby horses [= one toy horse] .
+%mor:	noun|baby noun|horse-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	horses .
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ready me go ?
+%mor:	verb|ready-Fin-Imp-S pron|I-Prs-Acc-S1 verb|go-Inf-S ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	ready me .
+%mor:	adj|ready-Pos-S1 pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	go down dere [: there] .
+%mor:	verb|go-Fin-Imp-S adv|down adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	go down right side .
+%mor:	verb|go-Fin-Imp-S adv|down adv|right noun|side .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|ADVMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	switch [?] .
+%mor:	verb|switch-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doing switch [?] .
+%mor:	verb|do-Ger-S noun|switch .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	trick .
+%mor:	verb|trick-Inf-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doin(g) trick .
+%mor:	verb|do-Ger-S noun|trick .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	doing chair tricks .
+%mor:	verb|do-Ger-S noun|chair noun|trick-Plur .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	yeah (.) funny .
+%mor:	intj|yeah adj|funny-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	chair trick (.) laughing .
+%mor:	noun|chair noun|trick noun|laugh .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	chair tricks .
+%mor:	noun|chair noun|trick-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy (re)member chair tricks ?
+%mor:	noun|Mommy verb|remember-Fin-Imp-S noun|chair noun|trick-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	chair tricks chair tricks chair tricks .
+%mor:	noun|chair noun|trick-Plur noun|chair noun|trick-Plur noun|chair noun|trick-Plur .
+%gra:	1|2|COMPOUND 2|6|ROOT 3|4|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|2|PARATAXIS 7|2|PUNCT
+*CHI:	press a button .
+%mor:	verb|press-Fin-Imp-S det|a-Ind-Art noun|button .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	what a happen (.) have a tail ?
+%mor:	pron|what-Int-S1 det|a-Ind-Art noun|happen verb|have-Inf-S det|a-Ind-Art noun|tail ?
+%gra:	1|4|OBJ 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	doing rope tricks .
+%mor:	verb|do-Ger-S noun|rope noun|trick-Plur .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	rope tricks .
+%mor:	noun|rope noun|trick-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	watch it rope tricks .
+%mor:	verb|watch-Fin-Imp-S pron|it-Prs-Acc-S3 noun|rope noun|trick-Plur .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	watch it .
+%mor:	verb|watch-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	car car .
+%mor:	noun|car noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	fell down (.) Mommy's floor .
+%mor:	verb|fall-Fin-Ind-Past-S1 adp|down noun|Mommy~part|s noun|floor .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|NMOD-POSS 4|3|CASE 5|1|OBJ 6|1|PUNCT
+*CHI:	(.) throw dat [: that] .
+%mor:	verb|throw-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	what dat [: that] ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	tricks .
+%mor:	noun|trick-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yep (.) tricks .
+%mor:	intj|yep noun|trick-Plur .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	okay de [: the] horses tail .
+%mor:	intj|okay det|the-Def-Art noun|horse-Plur verb|tail-Fin-Ind-Pres-P3 .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	okay horses ?
+%mor:	intj|okay noun|horse-Plur ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	okay horses okay horses .
+%mor:	intj|okay noun|horse-Plur adj|okay-Pos-S1 noun|horse-Plur .
+%gra:	1|4|DISCOURSE 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	good night rope tricks .
+%mor:	adj|good-Pos-S1 noun|night noun|rope noun|trick-Plur .
+%gra:	1|2|AMOD 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	good night my rope tricks .
+%mor:	adj|good-Pos-S1 noun|night pron|my-Prs-Gen-S1 noun|rope verb|trick-Fin-Ind-Pres-S3 .
+%gra:	1|2|AMOD 2|5|ROOT 3|4|NMOD-POSS 4|5|NSUBJ 5|2|ACL-RELCL 6|2|PUNCT
+*CHI:	yeah (.) rope tricks .
+%mor:	intj|yeah noun|rope noun|trick-Plur .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	rope trick fell down .
+%mor:	noun|rope noun|trick verb|fall-Fin-Ind-Past-S3 adv|down .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	go tired go tired .
+%mor:	verb|go-Fin-Imp-S adj|tired-Pos-S1 verb|go-Fin-Imp-S adj|tired-Pos-S1 .
+%gra:	1|4|ROOT 2|1|XCOMP 3|1|PARATAXIS 4|3|XCOMP 5|1|PUNCT
+*CHI:	Mommy Mommy .
+%mor:	noun|Mommy noun|Mommy .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	holler doesn't [?] fit in (th)ere ?
+%mor:	noun|holler aux|do-Fin-Ind-Pres-S3~part|not verb|fit-Inf-S adp|in adv|there ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	(.) horse fit in (i)n (th)ere ?
+%mor:	noun|horse verb|fit-Fin-Ind-Pres-S3 adp|in adp|in adv|there ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	ropes .
+%mor:	noun|rope-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy (.) roller (.) will [?] stand up ?
+%mor:	noun|Mommy noun|roller aux|will-Fin-S verb|stand-Inf-S adp|up ?
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	try him [?] dere [: there] .
+%mor:	verb|try-Fin-Imp-S pron|he-Prs-Acc-S3 adv|there .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	will [?] fit in (th)ere ?
+%mor:	aux|will-Fin-S verb|fit-Inf-S adp|in adv|there ?
+%gra:	1|2|AUX 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	see ?
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	le(t) me do rope tricks .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|do-Inf-S noun|rope noun|trick-Plur .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|COMPOUND 5|3|OBJ 6|1|PUNCT
+*CHI:	let me do ropes .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|do-Inf-S noun|rope-Plur .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	hello hello hello .
+%mor:	intj|hello intj|hello intj|hello .
+%gra:	1|3|ROOT 2|1|VOCATIVE 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	what dat [: that] (.) Mommy (.) cowboy .
+%mor:	pron|what-Rel-S1 det|that-Def-Dem noun|Mommy noun|cowboy .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|NSUBJ 5|1|PUNCT
+*CHI:	hello (.) cowboy .
+%mor:	intj|hello noun|cowboy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	wh(at) (h)appen (.) cowboy ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-S3 noun|cowboy ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	happen to him .
+%mor:	verb|happen-Fin-Imp-S adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	wh(at) (h)appen him ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-S pron|he-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	happen cow (.) watching (.) Rusty down (i)n (th)ere .
+%mor:	verb|happen-Fin-Imp-S noun|cow verb|watch-Ger-S noun|Rusty adv|down adp|in adv|there .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|ADVCL 4|3|OBJ 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|1|PUNCT
+*CHI:	see him down there ?
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Acc-S3 adp|down adv|there ?
+%gra:	1|4|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|ADVMOD 5|1|PUNCT
+*CHI:	down my (.) cowboy grass ?
+%mor:	adp|down pron|my-Prs-Gen-S1 noun|cowboy noun|grass ?
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	dig it ?
+%mor:	verb|dig-Fin-Imp-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	cowboy grass .
+%mor:	noun|cowboy noun|grass .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	put de [: the] cowboy down .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|cowboy adv|down .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|PUNCT
+*CHI:	no no no no no .
+%mor:	intj|no intj|no intj|no intj|no intj|no .
+%gra:	1|5|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|DISCOURSE 5|1|DISCOURSE 6|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	don't take it [?] (.) from you .
+%mor:	aux|do-Fin-Imp-S~part|not verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adp|from pron|you-Prs-Acc-S2 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	drop .
+%mor:	verb|drop-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cow rope .
+%mor:	noun|cow noun|rope .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	got over xxx where go ?
+%mor:	verb|get-Fin-Ind-Past-S1 adv|over adv|where verb|go-Fin-Ind-S ?
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|ADVMOD 4|1|ADVCL 5|1|PUNCT
+*CHI:	under (i)n (th)ere ?
+%mor:	adp|under adp|in adv|there ?
+%gra:	1|3|CASE 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	where cow go ?
+%mor:	adv|where noun|cow verb|go-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	where (.) is it (.) is it (.) Mommy ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 noun|Mommy ?
+%gra:	1|6|ROOT 2|1|COP 3|1|NSUBJ 4|5|COP 5|1|NSUBJ 6|5|VOCATIVE 7|1|PUNCT
+*CHI:	is it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
